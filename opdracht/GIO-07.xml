@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
+                             schemaversie="1.0">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml07</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml07/nld@2019-01-04</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/waterschap/ws0659</eindverantwoordelijke>
+         <maker>/tooi/id/waterschap/ws0659</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>meanderzone</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>meanderzone</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <soortenInformatieobject>
+            <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         </soortenInformatieobject>
+         <heeftGeboorteregeling>/akn/nl/act/ws0659/2019/wvl-20190906-1643</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>WaterschapsverordeningLocaties07.gml</bestandsnaam>
+                  <hash>1cc340d52a7d2ff99fe66bec0e11d5110a3666e75ae3c1aa8dc5f5cb859fced90eaa0767f804ba5370606a50b5a05dd3fe3e8264e49d0530ef1beb3cf4fd5716</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

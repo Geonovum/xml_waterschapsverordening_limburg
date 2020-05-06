@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
+                             schemaversie="1.0">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml22</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml22/nld@2019-01-04</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/waterschap/ws0659</eindverantwoordelijke>
+         <maker>/tooi/id/waterschap/ws0659</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>kanovaart overig</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>kanovaart overig</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <soortenInformatieobject>
+            <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         </soortenInformatieobject>
+         <heeftGeboorteregeling>/akn/nl/act/ws0659/2019/wvl-20190906-1643</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>WaterschapsverordeningLocaties22.gml</bestandsnaam>
+                  <hash>448ec560003a99b5e3ff92f147b2e888e81cfc149636671e65b4af76f9f321d9ea6b4edb21b32013805791cf0d2752f5b1e7a31575c8367c086b367a72140721</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>

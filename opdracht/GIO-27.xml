@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
+                             schemaversie="1.0">
+   <InformatieObjectVersie>
+      <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <FRBRWork>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml27</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml27/nld@2019-01-04</FRBRExpression>
+         <soortWork>/join/id/stop/work_007</soortWork>
+      </ExpressionIdentificatie>
+      <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <eindverantwoordelijke>/tooi/id/waterschap/ws0659</eindverantwoordelijke>
+         <maker>/tooi/id/waterschap/ws0659</maker>
+         <alternatieveTitels>
+            <alternatieveTitel>kernzone van het oppervlaktewater + een buffer van 0,5 m eromheen</alternatieveTitel>
+         </alternatieveTitels>
+         <officieleTitel>kernzone van het oppervlaktewater + een buffer van 0,5 m eromheen</officieleTitel>
+         <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
+         <soortenInformatieobject>
+            <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
+         </soortenInformatieobject>
+         <heeftGeboorteregeling>/akn/nl/act/ws0659/2019/wvl-20190906-1643</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>WaterschapsverordeningLocaties27.gml</bestandsnaam>
+                  <hash>6369c0670fc85a135ae5a0c28ddac73e8e7c07064c24ab88cb42d4ada48cccc2c94451b92384cff4db1e370297b1f3944b924f6671e19f70ee9c1d93e494b486</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectMetadata>
+   </InformatieObjectVersie>
+</AanleveringInformatieObject>
