@@ -222,10 +222,10 @@
          </Lichaam>
          <Sluiting eId="formula_2" wId="formula_2">
             <Al>Aldus besloten in de vergadering d.d. 1 juli 2019.</Al>
-            <Al/>
-            <Al>De griffier,</Al>
-            <Al/>
-            <Al>De voorzitter,</Al>
+            <Ondertekening>
+               <Al>De griffier,</Al>
+               <Al>De voorzitter,</Al>
+            </Ondertekening>
          </Sluiting>
          <WijzigBijlage eId="cmp_I" wId="ws0659_1.0__cmp_I">
             <Kop>
