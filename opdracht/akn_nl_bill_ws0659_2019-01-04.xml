@@ -339,6 +339,13 @@
                                           <Al>het dagelijks bestuur van Waterschap Limburg;</Al>
                                        </Definitie>
                                     </Begrip>
+                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_21"
+                                       wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_21">
+                                       <Term>Bijbehorende voorzieningen bij kabels en leidingen bij waterkeringen</Term>
+                                       <Definitie>
+                                          <Al>voorzieningen die noodzakelijk zijn vanuit waterkeringtechnische overwegingen of voor het in goede staat behouden van het kabel of leidingnet. Dit zijn bijvoorbeeld kwelschermen, kleikisten, appendages voor kathodische bescherming, drukregulatiesystemen en afsluiters.</Al>
+                                       </Definitie>
+                                    </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_11"
                                             wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_11">
                                        <Term>Bodemenergiesysteem</Term>
@@ -407,13 +414,6 @@
                                        <Term>Buitengewoon onderhoud waterkeringen</Term>
                                        <Definitie>
                                           <Al>het in standhouden overeenkomstig het in deLegger bepaalde omtrent richting, vorm, afmeting en constructie van de waterkeringen.</Al>
-                                       </Definitie>
-                                    </Begrip>
-                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_21"
-                                            wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_21">
-                                       <Term>Bijbehorende voorzieningen bij kabels en leidingen bij waterkeringen</Term>
-                                       <Definitie>
-                                          <Al>voorzieningen die noodzakelijk zijn vanuit waterkeringtechnische overwegingen of voor het in goede staat behouden van het kabel of leidingnet. Dit zijn bijvoorbeeld kwelschermen, kleikisten, appendages voor kathodische bescherming, drukregulatiesystemen en afsluiters.</Al>
                                        </Definitie>
                                     </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_22"
@@ -542,13 +542,6 @@
                                           <Al>varen met een kano of kajak;</Al>
                                        </Definitie>
                                     </Begrip>
-                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_40"
-                                            wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_40">
-                                       <Term>Kernzone waterkering</Term>
-                                       <Definitie>
-                                          <Al>de zone omvattende de waterkering inclusief bijbehorende (piping)berm, zoals aangegeven in de legger;</Al>
-                                       </Definitie>
-                                    </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_41"
                                             wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_41">
                                        <Term>Kernzone oppervlaktewater</Term>
@@ -556,11 +549,11 @@
                                           <Al>de zone omvattende het oppervlaktewater met bijbehorende onderhoudsstroken en beschermingszone, zoals aangegeven in de legger;</Al>
                                        </Definitie>
                                     </Begrip>
-                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_42"
-                                            wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_42">
-                                       <Term>Klein huisdier</Term>
+                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_40"
+                                       wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_40">
+                                       <Term>Kernzone waterkering</Term>
                                        <Definitie>
-                                          <Al>honden</Al>
+                                          <Al>de zone omvattende de waterkering inclusief bijbehorende (piping)berm, zoals aangegeven in de legger;</Al>
                                        </Definitie>
                                     </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_43"
@@ -568,6 +561,13 @@
                                        <Term>Klein bouwwerk: bouwwerk zonder woon- of bedrijfsfunctie, niet dieper gefundeerd dan 30 cm in de grond en eenvoudig verplaatsbaar/verwijderbaar. Voorbeelden</Term>
                                        <Definitie>
                                           <Al>tuinschuurtje, kippenhok, e.d.</Al>
+                                       </Definitie>
+                                    </Begrip>
+                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_42"
+                                       wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_42">
+                                       <Term>Klein huisdier</Term>
+                                       <Definitie>
+                                          <Al>honden</Al>
                                        </Definitie>
                                     </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_44"
@@ -598,6 +598,13 @@
                                           <Al>legger als bedoeld in artikel 5.1 van de wet of in artikel 78, tweede lid, van de Waterschapswet;</Al>
                                        </Definitie>
                                     </Begrip>
+                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_50"
+                                       wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_50">
+                                       <Term>Lijnvormige elementen: landschapselementen die in beginsel evenwijdig aan de hoogtelijnen in het terrein aanwezig zijn ter voorkoming van erosie De functie van een lijnvormig element is tweeledig</Term>
+                                       <Definitie>
+                                          <Al>het verminderen van afstroming van regenwater en de opvang van afspoelende bodemdeeltjes. Lijnvormige elementen zijn als waterstaatswerk opgenomen in de legger.</Al>
+                                       </Definitie>
+                                    </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_48"
                                             wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_48">
                                        <Term>Lozen</Term>
@@ -610,13 +617,6 @@
                                        <Term>Lozingsvoorziening</Term>
                                        <Definitie>
                                           <Al>een constructie om water in een oppervlaktewater te laten stromen.</Al>
-                                       </Definitie>
-                                    </Begrip>
-                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_50"
-                                            wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_50">
-                                       <Term>Lijnvormige elementen: landschapselementen die in beginsel evenwijdig aan de hoogtelijnen in het terrein aanwezig zijn ter voorkoming van erosie De functie van een lijnvormig element is tweeledig</Term>
-                                       <Definitie>
-                                          <Al>het verminderen van afstroming van regenwater en de opvang van afspoelende bodemdeeltjes. Lijnvormige elementen zijn als waterstaatswerk opgenomen in de legger.</Al>
                                        </Definitie>
                                     </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_51"
@@ -638,6 +638,13 @@
                                        <Term>Nieuw verhard oppervlak</Term>
                                        <Definitie>
                                           <Al>alle oppervlakken die door nieuwbouw of uitbreiding van woningen, bedrijfsgebouwen, parkeerterreinen, wegen, etc., verhard worden, waardoor de neerslag ter plaatse niet langer in de (voorheen onverharde) grond kan infiltreren.</Al>
+                                       </Definitie>
+                                    </Begrip>
+                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_62"
+                                       wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_62">
+                                       <Term>OWL-stuw en ander peilregulerend werk</Term>
+                                       <Definitie>
+                                          <Al>een vaste of beweegbare constructie in een overig water en in beheer en onderhoud bij de gebruiker, die dient om de waterstand bovenstrooms van de constructie te regelen.</Al>
                                        </Definitie>
                                     </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_54"
@@ -694,13 +701,6 @@
                                        <Term>Overige wateren</Term>
                                        <Definitie>
                                           <Al>wateren die niet in de legger zijn aangeduid als primair of secundair. Deze wateren hebben slechts een lokaal belang voor het (functioneren van het) watersysteem.</Al>
-                                       </Definitie>
-                                    </Begrip>
-                                    <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_62"
-                                            wId="ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_62">
-                                       <Term>OWL-stuw en ander peilregulerend werk</Term>
-                                       <Definitie>
-                                          <Al>een vaste of beweegbare constructie in een overig water en in beheer en onderhoud bij de gebruiker, die dient om de waterstand bovenstrooms van de constructie te regelen.</Al>
                                        </Definitie>
                                     </Begrip>
                                     <Begrip eId="chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1__item_o_63"
@@ -968,19 +968,20 @@
                                  <Lijst eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1"
                                         type="expliciet">
+                                    <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>activiteiten in, bij, langs, op, over, onder of boven een oppervlaktewater;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>activiteiten op, in of bij waterkeringen;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>het onttrekken van grondwater en het (terug) in de bodem brengen van (grond)water.</Al>
                                     </Li>
                                  </Lijst>
@@ -1001,27 +1002,27 @@
                                     </Lijstaanhef>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de waterstaatswerken in stand worden gehouden conform de legger als bedoeld in artikel 5.1 van de Waterwet;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>mogelijkheid tot vervulling van maatschappelijke functies in stand moet blijven;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>veiligheid gewaarborgd moet blijven;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>schade aan waterstaatswerken moet worden voorkomen;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>taakuitoefening van het waterschap niet wordt belemmerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -1040,24 +1041,25 @@
                                  <Lijst eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1"
                                         type="expliciet">
+                                    <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>activiteiten mogen geen nadelige effecten hebben voor de dimensionering van een oppervlaktewater, zoals vastgelegd in de legger als bedoeld in artikel 5.1 van de Waterwet, waardoor het watersysteem niet meer beantwoordt aan het doel waarvoor het is aangelegd, dan wel niet meer voldoet aan de daarvoor geldende normstelling;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>activiteiten mogen geen nadelige effecten hebben voor de goede werking van het watersysteem;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>activiteiten mogen geen nadelige effecten hebben voor het kunnen uitvoeren van onderhoud door of namens het waterschap en de bereikbaarheid van het watersysteem;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>activiteiten mogen geen nadelige effecten hebben voor het watersysteem in die zin dat toekomstige capaciteitsvergroting wordt belemmerd binnen de zone van het waterstaatswerk en de bijbehorende beschermingszones, als ook in het door het dagelijks bestuur voor oppervlaktewateren aan te wijzen profiel van vrije ruimte.</Al>
                                     </Li>
                                  </Lijst>
@@ -1076,24 +1078,25 @@
                                  <Lijst eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1"
                                         type="expliciet">
+                                    <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>activiteiten mogen geen nadelige effecten hebben voor de dimensionering van de waterkering, zoals vastgelegd in de legger, waardoor de waterkering niet meer beantwoordt aan het doel waarvoor die is aangelegd, dan wel niet meer voldoet aan de daarvoor geldende normstelling, waardoor de veiligheid niet kan worden gewaarborgd;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>activiteiten mogen geen nadelige effecten hebben voor de goede werking van de waterkering, onder normale omstandigheden en onder piekbelasting;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>activiteiten mogen geen nadelige effecten hebben voor het kunnen uitvoeren van onderhoud door of namens het waterschap en de bereikbaarheid van de waterkering;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>activiteiten mogen geen nadelige effecten hebben voor de waterkering in die zin dat toekomstige capaciteitsvergroting wordt belemmerd binnen de zone van het waterstaatswerk en de bijbehorende beschermingszones, als ook in het door het dagelijks bestuur voor waterkeringen aan te wijzen profiel van vrije ruimte.</Al>
                                     </Li>
                                  </Lijst>
@@ -1112,19 +1115,20 @@
                                  <Lijst eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1"
                                         type="expliciet">
+                                    <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>het onttrekken van grondwater mag geen negatief effect hebben op het reguliere grondwaterpeil, waardoor schade kan ontstaan aan natuur, waterstaatswerken en eigendommen van derden;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>het onttrekken van grondwater mag geen negatief effect hebben op de ondergrondse scheiding tussen grondwater voerende pakketten;</Al>
                                     </Li>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>de kwaliteit van grondwater mag niet verslechteren door het in de bodem terug brengen van water.</Al>
                                     </Li>
                                  </Lijst>
@@ -1598,27 +1602,27 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de lozing niet leidt tot beschadiging van oevers, taluds en bodem;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>het onderhoud (maaien oevers, taluds, bodem en onderhoudsstrook) niet wordt belemmerd door de aanwezigheid van een lozingsvoorziening;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>na het verwijderen van de (tijdelijke) lozingsvoorziening de watergang in oorspronkelijke toestand wordt hersteld;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>degene die water loost op de bodem ervoor zorgt dat afstroming naar een oppervlaktewater wordt vermeden; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.2__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>degene die het water loost het bestuur zo spoedig mogelijk informeert over eventuele veroorzaakte schade en over de getroffen en nog te treffen maatregelen.</Al>
                                     </Li>
                                  </Lijst>
@@ -1903,17 +1907,17 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.14__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.3__art_2.14__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de duiker of overkluizing de doorstroming van het oppervlaktewater niet stremt of belemmert;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.14__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.3__art_2.14__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de duiker of overkluizing doelmatig functioneert en in goede staat van onderhoud verkeert; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.3__art_2.14__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.3__art_2.14__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>de duiker of overkluizing zo wordt aangelegd dat deze niet kan vervormen of verzakken.</Al>
                                     </Li>
                                  </Lijst>
@@ -1969,22 +1973,22 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.4__art_2.17__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.17__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>bij het aanleggen van een brug wordt voorkomen dat verondiepingen of vernauwingen van het oppervlaktewater ontstaan waardoor de doorstroming kan worden belemmerd;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.4__art_2.17__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.17__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de aanwezigheid van een brug (incl. brugleuningen) geen belemmering vormt voor het uitvoeren van onderhoud;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.4__art_2.17__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.17__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>de brug, inclusief het profiel onder de brug en twee meter weerszijden van de brug, in een goede staat van onderhoud wordt gehouden; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.4__art_2.17__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.17__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>de doorstroming in het oppervlaktewater door de brug niet wordt verstoord. Daartoe dient drijvend vuil en dergelijke regelmatig te worden verwijderd.</Al>
                                     </Li>
                                  </Lijst>
@@ -2194,12 +2198,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.5__art_2.24__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.24__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>het plaatsen en behouden van een bouwwerk niet leidt tot beschadiging van het talud, de bodem en de oever van het oppervlaktewater; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.5__art_2.24__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.24__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>het bouwwerk zo geplaatst wordt dat het geen belemmering vormt voor het uitvoeren van onderhoud.</Al>
                                     </Li>
                                  </Lijst>
@@ -2277,27 +2281,27 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de kabel of leiding zodanig wordt aangebracht en onderhouden dat de wateraf- en doorvoerfunctie van het oppervlaktewater niet wordt belemmerd;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>het doelmatig onderhoud van het oppervlaktewater niet onevenredig wordt belemmerd;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>na afloop van de werkzaamheden het werk in nette staat wordt achtergelaten;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>een initiatiefnemer voorkomt dat een kabel of leiding door afkalving van de oever van een watergang in de watergang terecht komt; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.27__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>het verwijderen van een kabel of leiding niet leidt tot beschadiging van het oppervlaktewater of de bijbehorende onderhoudsstrook.</Al>
                                     </Li>
                                  </Lijst>
@@ -2378,17 +2382,17 @@
                                     <Lijstaanhef>Als een kabel of leiding parallel aan een oppervlaktewater wordt aangelegd, zijn de volgende voorschriften van toepassing:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.30__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.30__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de kabel of leiding wordt op de grens van het oppervlaktewater aangelegd;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.30__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.30__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de kabel of leiding wordt op een diepte van minimaal 1,00 meter onder maaiveld gelegd; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.30__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.30__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>de kabel of leiding die buiten gebruik is gesteld wordt in overleg met het waterschap verwijderd.</Al>
                                     </Li>
                                  </Lijst>
@@ -2408,12 +2412,12 @@
                                     <Lijstaanhef>Als een kabel of leiding wordt aangelegd in het profiel van vrije ruimte, zijn de volgende voorschriften van toepassing:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.31__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.31__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de kabel of leiding wordt op een diepte van minimaal 1,00 meter onder maaiveld gelegd; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.31__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.31__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de kabel of leiding die buiten gebruik is gesteld wordt in overleg met het waterschap verwijderd.</Al>
                                     </Li>
                                  </Lijst>
@@ -2433,12 +2437,12 @@
                                     <Lijstaanhef>Als een kabel of leiding wordt aangelegd in een meanderzone, zijn de volgende voorschriften van toepassing:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.32__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.32__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de kabel of leiding wordt op een diepte van minimaal 1,00 meter onder maaiveld gelegd; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.32__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.32__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de kabel of leiding die buiten gebruik is gesteld wordt in overleg met het waterschap verwijderd.</Al>
                                     </Li>
                                  </Lijst>
@@ -2458,12 +2462,12 @@
                                     <Lijstaanhef>Als een kabel of leiding wordt aangelegd in een inundatiegebied, zijn de volgende voorschriften van toepassing:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.33__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.33__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de kabel of leiding wordt op een diepte van minimaal 1,00 meter onder maaiveld gelegd; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.6__art_2.33__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.33__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de kabel of leiding die buiten gebruik is gesteld wordt in overleg met het waterschap verwijderd.</Al>
                                     </Li>
                                  </Lijst>
@@ -2553,22 +2557,22 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.37__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.37__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>er geen schade wordt toegebracht aan het oppervlaktewater of de bijbehorende zones;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.37__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.37__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>er geen afval wordt achtergelaten;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.37__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.37__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>aanwezig vee op de aangrenzende percelen niet wordt verontrust; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.37__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.37__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>de privacy van bewoners van huizen op de aangrenzende percelen wordt gerespecteerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -2734,37 +2738,37 @@
                                     <Lijstaanhef>Voor het varen met een gemotoriseerde boot op de Roer en Hambeek gelden de volgende voorschriften:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>er wordt alleen gevaren door gebruikers van percelen die rechtstreeks grenzen aan de aangegeven trajecten op onderstaande tekening;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>varen vindt alleen plaats op traject I en op het traject waaraan het perceel van de melder direct grenst (zie onderstaande tekening);</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>er wordt alleen gevaren in het laagwaterseizoen van 15 maart tot en met 14 oktober, tussen zonsopgang en zonsondergang;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>per perceel wordt met maximaal één gemelde gemotoriseerde boot gevaren;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>de maximale vaarsnelheid op de trajecten II, III, IV en V bedraagt 5 kilometer per uur;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_6"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_6">
-                                       <LiNummer>6</LiNummer>
+                                       <LiNummer>f</LiNummer>
                                        <Al>afhankelijk van het traject heeft de boot de volgende afmetingen:1º. traject II: 9 meter lang, 3 meter breed, 1 meter diepgang en 1,75 meter hoog;2º. traject III: 9 meter lang, 3 meter breed, 1 meter diepgang en 3,5 meter hoog; 3º. traject III: 9 meter lang, 3 meter breed, 1 meter diepgang en 3,5 meter hoog; en4º . traject IV en V: 6 meter lang, 2 meter breed, 0,5 meter diepgang, 1,75 meter hoog; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_7"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.42__list_o_1__item_7">
-                                       <LiNummer>7</LiNummer>
+                                       <LiNummer>g</LiNummer>
                                        <Al>de bestuurder van de boot heeft een exemplaar van de melding bij zich en kan deze op verzoek van een toezichthoudend ambtenaar tonen.</Al>
                                     </Li>
                                  </Lijst>
@@ -2784,32 +2788,32 @@
                                     <Lijstaanhef>Voor het aanmeren of afmeren met een gemotoriseerde boot op de Roer en Hambeek gelden de volgende voorschriften:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>aan- en afmeren vindt alleen plaats door gebruikers van percelen die rechtstreeks grenzen aan de aangegeven trajecten op onderstaande tekening;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>aanmeren en afmeren vindt plaats bij het eigen perceel, met uitzondering van traject I;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>de boot wordt met de lange zijde deugdelijk en zo strak mogelijk tegen de aanmeervoorziening aangemeerd;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>boten worden niet geplaatst of gestald op de oevers, taluds of aanlegwallen van de trajecten II, III, IV en V;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>tijdens het hoogwaterseizoen van 15 oktober tot en met 14 maart is de boot verwijderd uit het water op de trajecten II, III, IV en V; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_6"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.43__list_o_1__item_6">
-                                       <LiNummer>6</LiNummer>
+                                       <LiNummer>f</LiNummer>
                                        <Al>per perceel wordt met maximaal één gemelde gemotoriseerde boot aangemeerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -2913,27 +2917,27 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>bomen en struiken zodanig worden geplant dat oeververdedigingen (beschoeiingen) en taluds van oppervlaktewateren niet beschadigen als gevolg van wortelgroei;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>bomen en struiken zodanig worden onderhouden dat deze niet tot schade aan het oppervlaktewater en bijbehorende zones kunnen leiden;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>de kernzone niet wordt versmald of beschadigd als gevolg van uitgroeiende wortels, stammen en takken van bomen en struiken;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>het oppervlaktewater en de bijbehorende zones na afloop van de werkzaamheden in nette staat achtergelaten worden; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.48__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>na het aanbrengen van bomen en struiken de onderhoudsstrook en het oppervlaktewater in de oorspronkelijke toestand worden teruggebracht.</Al>
                                     </Li>
                                  </Lijst>
@@ -3037,27 +3041,27 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>het plaatsen van een klein bouwwerk niet leidt tot beschadiging van het oppervlaktewater en de bijbehorende zones;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>het bouwwerk zodanig geplaatst wordt dat deze geen belemmering vormt voor het uitvoeren van onderhoud;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>de aanwezigheid van een bouwwerk binnen een profiel van vrije ruimte niet leidt tot beperking van noodzakelijke aanpassingen aan het oppervlaktewater;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>de aanwezigheid van een klein bouwwerk binnen een meanderzone geen belemmering voor het meanderproces binnen de meanderzone vormt; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.53__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>de aanwezigheid van een klein bouwwerk binnen een inundatiegebied geen afbreuk doet aan de functie van het inundatiegebied.</Al>
                                     </Li>
                                  </Lijst>
@@ -3125,17 +3129,17 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.10__art_2.56__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.10__art_2.56__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de aanwezigheid van de afrastering, het hekwerk of de schutting geen belemmering vormt voor het voeren van onderhoud aan het oppervlaktewater;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.10__art_2.56__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.10__art_2.56__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de aanwezigheid van een afrastering, hekwerk of een schutting binnen een meanderzone niet leidt tot een belemmering voor het meanderproces binnen de meanderzone; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.10__art_2.56__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.10__art_2.56__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>de aanwezigheid van een afrastering, hekwerk of een schutting binnen een inundatiegebied geen afbreuk doet aan de functie van het inundatiegebied.</Al>
                                     </Li>
                                  </Lijst>
@@ -3343,27 +3347,27 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>er geen schade wordt toegebracht aan het oppervlaktewater of de bijbehorende zones;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>eventueel ontstane schade aan het oppervlaktewater of een bijbehorende zone onmiddellijk wordt hersteld;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>er geen afval wordt achtergelaten;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>aanwezig vee op de aangrenzende percelen niet wordt verontrust; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.13__art_2.68__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>de privacy van bewoners van huizen op de aangrenzende percelen wordt gerespecteerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -3472,12 +3476,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.15__art_2.74__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.15__art_2.74__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de stuw en ander peilregulerend werk in een goede staat van onderhoud wordt gehouden; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.15__art_2.74__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.15__art_2.74__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>bediening van de stuw en ander peilregulerend werk zodanig plaatsvindt dat andere gebruikers van het oppervlaktewater hiervan geen schade ondervinden.</Al>
                                     </Li>
                                  </Lijst>
@@ -3582,12 +3586,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.16__art_2.79__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.16__art_2.79__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>geen schade wordt toegebracht aan de oever en het talud van het oppervlaktewater; en</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.16__art_2.79__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.16__art_2.79__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>het doelmatig voeren van onderhoud niet wordt belemmerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -3637,12 +3641,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.17__art_2.82__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.17__art_2.82__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>schade wordt hersteld die binnen twee jaar na realisering van de verlegging of aanpassing ontstaat aan de oever en het talud van het oppervlaktewater;</Al>
                                     </Li>
                                     <Li eId="chp_2__subchp_2.1__subsec_2.1.17__art_2.82__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.17__art_2.82__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>het doelmatig voeren van onderhoud niet wordt belemmerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -3709,17 +3713,17 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.1__art_3.2__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.1__art_3.2__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de waterkering voldoende bereikbaar moet zijn om de waterkering te kunnen inspecteren;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.1__art_3.2__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.1__art_3.2__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de waterkering voldoende bereikbaar moet zijn om de waterkering te kunnen onderhouden; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.1__art_3.2__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.1__art_3.2__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>in geval van (dreigende) calamiteuze situaties, (nood)voorzieningen en – maatregelen kunnen worden getroffen.</Al>
                                     </Li>
                                  </Lijst>
@@ -4007,12 +4011,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.4__art_3.14__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.4__art_3.14__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de stabiliteit van de waterkering niet negatief beïnvloed wordt; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.4__art_3.14__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.4__art_3.14__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de bereikbaarheid van de waterkering niet wordt belemmerd met het oog op het beheer en onderhoud van de waterkering.</Al>
                                     </Li>
                                  </Lijst>
@@ -4370,12 +4374,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.7__art_3.29__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.7__art_3.29__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de werkzaamheden worden uitgevoerd op een manier die de stabiliteit en het functioneren van de waterkering niet in gevaar bengt; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.7__art_3.29__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.7__art_3.29__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de waterkering bereikbaar blijft tijdens de uitvoering van de werkzaamheden en inspectie en onderhoud van de waterkering niet wordt belemmerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -4439,12 +4443,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.8__art_3.32__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.32__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de werkzaamheden op een zodanige wijze worden uitgevoerd dat de stabiliteit en het functioneren van de waterkering niet in gevaar wordt gebracht; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.8__art_3.32__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.32__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de waterkering bereikbaar blijft tijdens de uitvoering van de werkzaamheden. Inspectie en onderhoud van de waterkering mag niet worden belemmerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -4665,12 +4669,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.10__art_3.44__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.10__art_3.44__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>negatieve effecten van de aanleg en aanwezigheid van een bodemenergiesysteem op de stabiliteit en het functioneren van de waterkering worden voorkomen; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.10__art_3.44__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.10__art_3.44__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de aanwezigheid van het bodemenergiesysteem geen belemmering vormt voor een (toekomstige) aanpassing van de waterkering.</Al>
                                     </Li>
                                  </Lijst>
@@ -4734,12 +4738,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.11__art_3.47__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.47__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>voorkomen wordt dat het afvloeiend hemelwater leidt tot aantasting van de stabiliteit van waterkering; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.11__art_3.47__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.47__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>negatieve effecten van het aanleggen, hebben, wijzigen en verwijderen van de verharding op de stabiliteit en het functioneren van de waterkering worden voorkomen.</Al>
                                     </Li>
                                  </Lijst>
@@ -4781,17 +4785,17 @@
                                     <Lijstaanhef>Degene die verharding aanlegt of behoudt:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.11__art_3.49__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.49__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>legt de bovenkant van de verharding op het huidige maaiveldniveau;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.11__art_3.49__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.49__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>legt de constructie van de verharding, inclusief fundering, niet dieper aan dan 30 cm onder het bestaande maaiveld;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.11__art_3.49__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.49__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>legt de verharding zo aan dat de afwatering van de waterkering niet gehinderd wordt en dat er geen vernatting van de teen van de waterkering optreedt.</Al>
                                     </Li>
                                  </Lijst>
@@ -4944,17 +4948,17 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.13__art_3.57__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.13__art_3.57__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>de toegankelijkheid en bereikbaarheid van de kering niet negatief wordt beïnvloed;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.13__art_3.57__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.13__art_3.57__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>de aanwezige ophoging geen zettingen en stabiliteitsproblemen veroorzaakt met invloed op de waterkering; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.13__art_3.57__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.13__art_3.57__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>voor de ophoging materiaal gebruikt dat voldoet aan de daaraan gestelde eisen in het Besluit bodemkwaliteit en dat geen resten bevat van invasieve exoten zoals de Japanse Duizendknoop.</Al>
                                     </Li>
                                  </Lijst>
@@ -5114,12 +5118,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.15__art_3.65__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.15__art_3.65__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>het aanleggen van de leiding op een zodanige wijze plaatsvindt dat het functioneren van de waterkering zo min mogelijk wordt geschaad; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.15__art_3.65__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.15__art_3.65__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>initiatiefnemer er rekening mee houdt dat tijdens de uitvoering van het werk een hoge rivierwaterstand op kan treden.</Al>
                                     </Li>
                                  </Lijst>
@@ -5290,12 +5294,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel houdt in ieder geval in dat:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.17__art_3.74__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.17__art_3.74__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>voorkomen wordt dat de waterkering en bijbehorende zonering worden beschadigd als gevolg van het recreatief medegebruik; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.17__art_3.74__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.17__art_3.74__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>paardrijden op een waterkering en in de kernzone alleen plaatsvindt op speciaal hiervoor ingerichte ruiterpaden.</Al>
                                     </Li>
                                  </Lijst>
@@ -5546,37 +5550,37 @@
                                     <Lijstaanhef>Degene die tuinbeplanting aanbrengt:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>houdt een afstand van ten minste 0,5 meter uit de kernzone van een dijklichaam aan die vrij is van beplanting en uitgroei van beplanting;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>houdt een afstand van ten minste 1,5 meter uit de bovengrondse constructie van een vaste harde kering aan die vrij is van beplanting en uitgroei van beplanting;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>houdt een afstand van ten minste 2 meter uit de bovengrondse constructie van een demontabele waterkering aan die vrij is van beplanting en uitgroei van beplanting;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>brengt geen ondergrondse voorzieningen aan voor beluchting, drainages of watervoorziening;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>beperkt de ingravingen van het plantgat tot een minimum en zorgt dat het plantgat nooit dieper is dan 1,0 meter;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_6"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_6">
-                                       <LiNummer>6</LiNummer>
+                                       <LiNummer>f</LiNummer>
                                        <Al>dicht aan het einde van elke werkdag het plantgat met het uitgekomen materiaal; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_7"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.86__list_o_1__item_7">
-                                       <LiNummer>7</LiNummer>
+                                       <LiNummer>g</LiNummer>
                                        <Al>snoeit de beplanting op eerste aanzegging van het dagelijks bestuur als dit noodzakelijk is voor het uitvoeren van beheer- of onderhoudshandelingen door het waterschap of anders in het belang van de waterstaat.</Al>
                                     </Li>
                                  </Lijst>
@@ -5596,17 +5600,17 @@
                                     <Lijstaanhef>Degene die tuinbeplanting verwijdert:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.87__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.87__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>verwijdert ondergrondse delen alleen in de periode van 15 maart tot 15 oktober;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.87__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.87__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>voert de gerooide beplanting, inclusief wortels, af; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.87__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.87__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>vult de gaten die zijn ontstaan bij het verwijderen van de beplanting met het zelfde type grond als de directe omgeving van het gat en verdicht deze grond in lagen van 30 cm.</Al>
                                     </Li>
                                  </Lijst>
@@ -5626,37 +5630,37 @@
                                     <Lijstaanhef>Degene die bomen aanbrengt:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>brengt de boom of bomen aan op een afstand van ten minste 8,5 meter uit de teen van een dijklichaam;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>brengt de boom of bomen aan op een afstand van ten minste 5,5 meter uit de teen van een vaste harde kering;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>brengt de boom of bomen aan op een afstand van ten minste 5,5 meter uit de teen van een demontabele waterkering;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>brengt geen ondergrondse voorzieningen aan voor beluchting, drainages of watervoorziening;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>beperkt de ingravingen van het plantgat tot een minimum en zorgt dat het plantgat nooit dieper is dan 1,0 meter;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_6"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_6">
-                                       <LiNummer>6</LiNummer>
+                                       <LiNummer>f</LiNummer>
                                        <Al>dicht aan het einde van elke werkdag het plantgat met het uitgekomen materiaal; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_7"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.88__list_o_1__item_7">
-                                       <LiNummer>7</LiNummer>
+                                       <LiNummer>g</LiNummer>
                                        <Al>snoeit of verwijdert de bomen op eerste aanzegging van het dagelijks bestuur als dit noodzakelijk is voor het uitvoeren van beheer- of onderhoudshandelingen door het waterschap of anders in het belang van de waterstaat.</Al>
                                     </Li>
                                  </Lijst>
@@ -5676,37 +5680,37 @@
                                     <Lijstaanhef>Degene die struweel aanbrengt:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>brengt de beplanting aan op een afstand van ten minste 8,5 meter uit de teen van een dijklichaam;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>brengt de beplanting aan op een afstand van ten minste 5,5 meter uit de teen van een vaste harde kering;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>brengt de beplanting aan op een afstand van ten minste 5,5 meter uit de teen van een demontabele waterkering;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>brengt geen ondergrondse voorzieningen aan voor beluchting, drainages of watervoorziening;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_5"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_5">
-                                       <LiNummer>5</LiNummer>
+                                       <LiNummer>e</LiNummer>
                                        <Al>beperkt de ingravingen van het plantgat tot een minimum en zorgt dat het plantgat nooit dieper is dan 1,0 meter;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_6"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_6">
-                                       <LiNummer>6</LiNummer>
+                                       <LiNummer>f</LiNummer>
                                        <Al>dicht aan het einde van elke werkdag het plantgat met het uitgekomen materiaal; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_7"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.89__list_o_1__item_7">
-                                       <LiNummer>7</LiNummer>
+                                       <LiNummer>g</LiNummer>
                                        <Al>snoeit of verwijdert de beplanting op eerste aanzegging van het dagelijks bestuur als dit noodzakelijk is voor het uitvoeren van beheer- of onderhoudshandelingen door het waterschap of anders in het belang van de waterstaat.</Al>
                                     </Li>
                                  </Lijst>
@@ -5726,17 +5730,17 @@
                                     <Lijstaanhef>Degene die bomen of struweel verwijdert:</Lijstaanhef>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.90__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.90__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>verwijdert ondergrondse delen alleen in de periode van 15 maart tot 15 oktober;</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.90__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.90__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>voert de gerooide beplanting, inclusief wortels, af; en</Al>
                                     </Li>
                                     <Li eId="chp_3__subchp_3.1__subsec_3.1.19__art_3.90__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.19__art_3.90__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>vult de gaten die zijn ontstaan bij het verwijderen van de beplanting met het zelfde type grond als de directe omgeving van het gat en verdicht deze grond in lagen van 30 cm.</Al>
                                     </Li>
                                  </Lijst>
@@ -6535,24 +6539,25 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1"
                                         type="expliciet">
+                                    <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>effecten van de grondwateronttrekking op de omgeving zoveel mogelijk worden beperkt;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>uitwisseling van grondwater tussen verschillende watervoerende pakketten worden voorkomen;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>verontreiniging van grondwater wordt voorkomen;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1__item_4"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1__item_4">
-                                       <LiNummer>4</LiNummer>
+                                       <LiNummer>d</LiNummer>
                                        <Al>het voeren van onderhoud aan primaire of secundaire wateren niet wordt belemmerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -6740,19 +6745,20 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1"
                                         type="expliciet">
+                                    <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>uit een niet door het bestuur geregistreerde put of</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>met een niet door het bestuur geregistreerde pomp of</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>met een pomp die niet is voorzien van een door het bestuur verstrekt label.</Al>
                                     </Li>
                                  </Lijst>
@@ -6791,17 +6797,17 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat: </Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.5__art_4.27__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.5__art_4.27__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>effecten van de grondwateronttrekking op de omgeving zoveel mogelijk worden beperkt;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.5__art_4.27__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.5__art_4.27__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>uitwisseling van grondwater tussen verschillende watervoerende pakketten worden voorkomen;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.5__art_4.27__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.5__art_4.27__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>verontreiniging van grondwater wordt voorkomen.</Al>
                                     </Li>
                                  </Lijst>
@@ -7013,19 +7019,20 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1"
                                         type="expliciet">
+                                    <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>effecten van de grondwateronttrekking op de omgeving zoveel mogelijk worden beperkt;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>uitwisseling van grondwater tussen verschillende watervoerende pakketten worden voorkomen;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>verontreiniging van grondwater wordt voorkomen.</Al>
                                     </Li>
                                  </Lijst>
@@ -7082,19 +7089,20 @@
                                  <Lijst eId="chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1"
                                         type="expliciet">
+                                    <Lijstaanhef>Lijstaanhef</Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>effecten van de grondwateronttrekking op de omgeving zoveel mogelijk worden beperkt;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>uitwisseling van grondwater tussen verschillende watervoerende pakketten worden voorkomen;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1__item_3"
                                         wId="ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1__item_3">
-                                       <LiNummer>3</LiNummer>
+                                       <LiNummer>c</LiNummer>
                                        <Al>verontreiniging van grondwater wordt voorkomen.</Al>
                                     </Li>
                                  </Lijst>
@@ -7325,12 +7333,12 @@
                                     <Lijstaanhef>De zorgplicht, bedoeld in artikel , houdt in ieder geval in dat: </Lijstaanhef>
                                     <Li eId="chp_4__subchp_4.2__subsec_4.2.1__art_4.45__list_o_1__item_1"
                                         wId="ws0659_1.0__chp_4__subchp_4.2__subsec_4.2.1__art_4.45__list_o_1__item_1">
-                                       <LiNummer>1</LiNummer>
+                                       <LiNummer>a</LiNummer>
                                        <Al>het drainagesysteem zodanig is ingesteld dat niet meer wordt gedraineerd dan noodzakelijk is voor bewerking of gebruik van het landbouwperceel;</Al>
                                     </Li>
                                     <Li eId="chp_4__subchp_4.2__subsec_4.2.1__art_4.45__list_o_1__item_2"
                                         wId="ws0659_1.0__chp_4__subchp_4.2__subsec_4.2.1__art_4.45__list_o_1__item_2">
-                                       <LiNummer>2</LiNummer>
+                                       <LiNummer>b</LiNummer>
                                        <Al>dat de aan te leggen en te hebben lozingsvoorziening op een zodanige wijze wordt aangebracht dat schade aan (het talud van) de watergang wordt voorkomen en dat het voeren van doelmatig onderhoud niet wordt belemmerd.</Al>
                                     </Li>
                                  </Lijst>
@@ -7703,14 +7711,179 @@
                      <Inhoud>
                         <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
                                         wId="ws0659_1.0__cmp_I__content_o_1__list_o_1">
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_13">
+                              <Term>alle watergangen minus de kanotrajecten</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml23/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml23/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_16"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_16">
+                              <Term>beheergebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml29/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml29/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_9">
+                              <Term>beschermingszone keringen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml14/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml14/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_8">
+                              <Term>buitenbeschermingszone keringen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml12/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml12/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_6">
+                              <Term>inundatiegebied</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml08/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml08/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_12"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_12">
+                              <Term>kanovaart overig</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml22/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml22/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_11"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_11">
+                              <Term>kanovaart roer</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml21/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml21/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_14">
+                              <Term>kernzone primair water + een buffer van 2 meter eromheen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml25/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml25/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_15"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_15">
+                              <Term>kernzone van het oppervlaktewater + een buffer van 0,5 m eromheen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml27/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml27/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_10">
+                              <Term>kernzonesysteem</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml19/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml19/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_5">
+                              <Term>meanderzone</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml07/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml07/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_18"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_18">
+                              <Term>oppervlaktewater</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml42/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml42/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_4">
+                              <Term>oppervlaktewateren Afwateringskanaal, Neerbeek, Haelensebeek, Tungelroysebeek, Leukerbeek en Uffeltsebeek</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml05/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml05/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_3">
+                              <Term>oppervlaktewateren Niers, Helenavaart en Oude Helenavaart</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml04/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml04/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_1">
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_1">
                               <Term>primair water</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml02/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml02/nld@2019-01-04</ExtIoRef>
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml02/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml02/nld@2019-01-04</ExtIoRef>
+                                 </Al>
+                              </Definitie>
+                           </Begrip>
+                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
+                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_7">
+                              <Term>profiel vrijeruimte keringen</Term>
+                              <Definitie>
+                                 <Al>
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                       ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml11/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml11/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
@@ -7725,160 +7898,6 @@
                                  </Al>
                               </Definitie>
                            </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_3">
-                              <Term>oppervlaktewateren Niers, Helenavaart en Oude Helenavaart</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml04/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml04/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_4">
-                              <Term>oppervlaktewateren Afwateringskanaal, Neerbeek, Haelensebeek, Tungelroysebeek, Leukerbeek en Uffeltsebeek</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml05/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml05/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_5">
-                              <Term>meanderzone</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml07/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml07/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_6">
-                              <Term>inundatiegebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml08/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml08/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_7">
-                              <Term>profiel vrijeruimte keringen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml11/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml11/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_8">
-                              <Term>buitenbeschermingszone keringen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml12/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml12/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_9">
-                              <Term>beschermingszone keringen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml14/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml14/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_10">
-                              <Term>kernzonesysteem</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml19/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml19/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_11"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_11">
-                              <Term>kanovaart roer</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml21/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml21/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_12"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_12">
-                              <Term>kanovaart overig</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml22/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml22/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_13">
-                              <Term>alle watergangen minus de kanotrajecten</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml23/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml23/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_14">
-                              <Term>kernzone primair water + een buffer van 2 meter eromheen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml25/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml25/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_15"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_15">
-                              <Term>kernzone van het oppervlaktewater + een buffer van 0,5 m eromheen</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml27/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml27/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_16"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_16">
-                              <Term>beheergebied</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml29/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml29/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_17"
                                    wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_17">
                               <Term>werkingsgebied</Term>
@@ -7887,17 +7906,6 @@
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1"
                                               wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1"
                                               ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml41/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml41/nld@2019-01-04</ExtIoRef>
-                                 </Al>
-                              </Definitie>
-                           </Begrip>
-                           <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_18"
-                                   wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_18">
-                              <Term>oppervlaktewater</Term>
-                              <Definitie>
-                                 <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
-                                              wId="ws0659_1.0__cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
-                                              ref="/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml42/nld@2019-01-04">/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml42/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>

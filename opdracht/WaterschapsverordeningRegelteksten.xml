@@ -1104,13 +1104,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.1__art_3.1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art108</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.1__art_3.2">
                <r:identificatie>nl.imow-ws0659.regeltekst.art109</r:identificatie>
             </r:Regeltekst>
@@ -1496,20 +1489,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid28</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid29</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_1">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid31</r:identificatie>
             </r:Regeltekst>
@@ -1678,20 +1657,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.38__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid82</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.38__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid83</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.39__para_1">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid84</r:identificatie>
             </r:Regeltekst>
@@ -1825,13 +1790,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.50__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid103</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54__para_1">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid106</r:identificatie>
             </r:Regeltekst>
@@ -1932,13 +1890,6 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.2__art_3.9__para_2">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid132</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.2__art_3.9__para_4">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid134</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -2063,13 +2014,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.21__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid154</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.6__art_3.24__para_1">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid155</r:identificatie>
             </r:Regeltekst>
@@ -2177,13 +2121,6 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.9__art_3.41__para_3">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid178</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.10__art_3.45__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid180</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
