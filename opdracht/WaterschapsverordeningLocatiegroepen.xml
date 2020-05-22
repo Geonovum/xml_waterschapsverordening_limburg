@@ -29,8 +29,11 @@
                <l:identificatie>nl.imow-ws0659.gebiedengroep.1</l:identificatie>
                <l:noemer>groep1</l:noemer>
                <l:groepselement>
+                  <!-- secundair water -->
                   <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
+                  <!-- meanderzone -->
                   <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml07"/>
+                  <!-- inundatiegebied -->
                   <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml08"/>
                </l:groepselement>
             </l:Gebiedengroep>
@@ -42,6 +45,7 @@
                <l:identificatie>nl.imow-ws0659.gebiedengroep.2</l:identificatie>
                <l:noemer>groep2</l:noemer>
                <l:groepselement>
+                  <!-- secundair water -->
                   <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
                </l:groepselement>
             </l:Gebiedengroep>
@@ -53,8 +57,11 @@
                <l:identificatie>nl.imow-ws0659.gebiedengroep.3</l:identificatie>
                <l:noemer>groep3</l:noemer>
                <l:groepselement>
+                  <!-- profiel vrijeruimte keringen -->
                   <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml11"/>
+                  <!-- buitenbeschermingszone keringen -->
                   <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml12"/>
+                  <!-- beschermingszone keringen -->
                   <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
                </l:groepselement>
             </l:Gebiedengroep>
@@ -92,7 +99,7 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-ws0659.gebied.gml04</l:identificatie>
-               <l:noemer>secundair water</l:noemer>
+               <l:noemer>oppervlaktewateren Niers, Helenavaart en Oude Helenavaart</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="4A1B71F8-90A4-46A2-9BEF-AD51178337D5"/>
                </l:geometrie>
@@ -105,7 +112,7 @@
          <ow-dc:owObject>
             <l:Gebied>
                <l:identificatie>nl.imow-ws0659.gebied.gml05</l:identificatie>
-               <l:noemer>secundair water</l:noemer>
+               <l:noemer>oppervlaktewateren Afwateringskanaal, Neerbeek, Haelensebeek, Tungelroysebeek, Leukerbeek en Uffeltsebeek</l:noemer>
                <l:geometrie>
                   <l:GeometrieRef xlink:href="7945D6D2-E231-45ED-811D-5DBDD98FB614"/>
                </l:geometrie>

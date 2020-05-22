@@ -37,18 +37,6 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-ws0659.activiteit.1</rol:identificatie>
-               <rol:naam>lozingsactiviteit op oppervlaktewaterlichaam</rol:naam>
-               <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Lozingsactiviteit</rol:groep>
-               <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-mn002.activiteit.ActiviteitGevolgenFysiekeLeefomg"/>
-               </rol:bovenliggendeActiviteit>
-            </rol:Activiteit>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <rol:Activiteit>
                <rol:identificatie>nl.imow-ws0659.activiteit.3</rol:identificatie>
                <rol:naam>wateronttrekingsactiviteit oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wateronttrekkingsactiviteit</rol:groep>

@@ -1,0 +1,165 @@
+
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\WaterschapsverordeningRegelteksten.xml
+       
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid28.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid29.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid82.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid83.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid103.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.art108.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid134.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid154.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid180.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\WaterschapsverordeningLocatiegroepen.xml
+       
+                      TPOD_1980: Betreft l:Gebied: nl.imow-ws0659.gebied.gml21, 6063B2D1-1A3A-4608-878E-203637F1E4AA: 
+                      Iedere verwijzing naar een gmlObject vanuit een Gebied moet een gebied-geometrie zijn.
+                   
+                      TPOD_1980: Betreft l:Gebied: nl.imow-ws0659.gebied.gml23, EA140BC6-9D35-4D19-AC79-648C21DA8C94: 
+                      Iedere verwijzing naar een gmlObject vanuit een Gebied moet een gebied-geometrie zijn.
+                   
+                      TPOD_1980: Betreft l:Gebied: nl.imow-ws0659.gebied.gml29, 761B517A-3AAE-470A-B078-655C3DB6442F: 
+                      Iedere verwijzing naar een gmlObject vanuit een Gebied moet een gebied-geometrie zijn.
+                   
+                      TPOD_1980: Betreft l:Gebied: nl.imow-ws0659.gebied.gml41, EEFD9CEF-C600-438B-83FE-5DC7DF86EAB7: 
+                      Iedere verwijzing naar een gmlObject vanuit een Gebied moet een gebied-geometrie zijn.
+                  
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\WaterschapsverordeningRegelteksten.xml
+       
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid180.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                   
+                      TPOD2120: Iedere OW-identificatie dient slechts 1 keer voor te komen per aanlevering (c.q. je mag niet binnen dezelfde aanlevering een ID aanmaken, en vervolgens het ID wijzigen), 
+                      dit betreft id:nl.imow-ws0659.regeltekst.lid180.
+                      Let op, heel belangrijk om dit eerst te repareren voor conclusies te trekken over fout-situaties in andere validaties.
+                  
+      C:\Users\Default.DESKTOP-NDDI22K\Documents\Geonovum\github\xml_schematron\1.0-Validatie-_en_conformiteitsregels_TPOD\Validaties\Opdracht\akn_nl_bill_ws0659_2019-01-04.xml
+       
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.3__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.5__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.6__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: ws0659_1.0__chp_1__subchp_1.2__subsec_1.2.1__art_1.7__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.19__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.4__art_4.25__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.6__art_4.35__list_o_1 
+                      TPOD_0810: Een Lijst wordt altijd voorafgegaan door een inleidende tekst, oftewel de Lijstaanhef.
+                      Betreft: Lijst met wId: ws0659_1.0__chp_4__subchp_4.1__subsec_4.1.7__art_4.38__list_o_1 TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 1.3 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 1.4 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 1.5 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 1.6 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 1.7 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.2 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.14 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.17 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.24 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.27 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.30 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.31 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.32 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.33 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.37 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.42 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5, 6, 7) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.43 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5, 6) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.48 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.53 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.56 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.68 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.74 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.79 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 2.82 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.2 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.14 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.29 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.32 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.44 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.47 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.49 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.57 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.65 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.74 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.86 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5, 6, 7) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.87 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.88 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5, 6, 7) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.89 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4, 5, 6, 7) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 3.90 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 4.19 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3, 4) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 4.25 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 4.27 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 4.35 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 4.38 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2, 3) TPOD_0830/0831:
+                      In lijst (op het eerste niveau) in artikel 4.45 moeten onderdelen op het eerste niveau worden aangegeven met letters. (1, 2) 
+                      TPOD_1010_1060: Een Begriplijst moet gesorteerd zijn, 
+                      de Begrippenlijst met wId: "ws0659_1.0__chp_1__subchp_1.1__subsec_1.1.1__art_1.1__list_o_1" is dat niet 
+                      TPOD_1010_1060: Een Begriplijst moet gesorteerd zijn, 
+                      de Begrippenlijst met wId: "ws0659_1.0__cmp_I__content_o_1__list_o_1" is dat niet 
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.1 (nl.imow-ws0659.regeltekst.art25)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_2 (nl.imow-ws0659.regeltekst.lid27) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.1 (nl.imow-ws0659.regeltekst.art25)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.1__para_3 (nl.imow-ws0659.regeltekst.lid28)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.3 (nl.imow-ws0659.regeltekst.art27)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1 (nl.imow-ws0659.regeltekst.lid29) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.3 (nl.imow-ws0659.regeltekst.art27)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_2 (nl.imow-ws0659.regeltekst.lid30)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5 (nl.imow-ws0659.regeltekst.art29)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_1 (nl.imow-ws0659.regeltekst.lid31) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5 (nl.imow-ws0659.regeltekst.art29)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_2 (nl.imow-ws0659.regeltekst.lid32) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5 (nl.imow-ws0659.regeltekst.art29)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_3 (nl.imow-ws0659.regeltekst.lid33)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6 (nl.imow-ws0659.regeltekst.art30)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_1 (nl.imow-ws0659.regeltekst.lid34) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6 (nl.imow-ws0659.regeltekst.art30)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_2 (nl.imow-ws0659.regeltekst.lid35) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6 (nl.imow-ws0659.regeltekst.art30)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_3 (nl.imow-ws0659.regeltekst.lid36)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7 (nl.imow-ws0659.regeltekst.art31)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7__para_1 (nl.imow-ws0659.regeltekst.lid38) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7 (nl.imow-ws0659.regeltekst.art31)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7__para_2 (nl.imow-ws0659.regeltekst.lid39)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8 (nl.imow-ws0659.regeltekst.art32)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_1 (nl.imow-ws0659.regeltekst.lid40) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8 (nl.imow-ws0659.regeltekst.art32)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_2 (nl.imow-ws0659.regeltekst.lid41)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.20 (nl.imow-ws0659.regeltekst.art44)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.20__para_3 (nl.imow-ws0659.regeltekst.lid55) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.20 (nl.imow-ws0659.regeltekst.art44)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.20__para_4 (nl.imow-ws0659.regeltekst.lid56)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22 (nl.imow-ws0659.regeltekst.art46)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_1 (nl.imow-ws0659.regeltekst.lid61) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22 (nl.imow-ws0659.regeltekst.art46)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_2 (nl.imow-ws0659.regeltekst.lid62) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22 (nl.imow-ws0659.regeltekst.art46)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_3 (nl.imow-ws0659.regeltekst.lid63)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23 (nl.imow-ws0659.regeltekst.art47)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23__para_1 (nl.imow-ws0659.regeltekst.lid64) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23 (nl.imow-ws0659.regeltekst.art47)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23__para_2 (nl.imow-ws0659.regeltekst.lid65)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25 (nl.imow-ws0659.regeltekst.art49)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_1 (nl.imow-ws0659.regeltekst.lid66) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25 (nl.imow-ws0659.regeltekst.art49)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_3 (nl.imow-ws0659.regeltekst.lid68) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25 (nl.imow-ws0659.regeltekst.art49)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_4 (nl.imow-ws0659.regeltekst.lid69)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29 (nl.imow-ws0659.regeltekst.art53)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_1 (nl.imow-ws0659.regeltekst.lid73) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29 (nl.imow-ws0659.regeltekst.art53)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_2 (nl.imow-ws0659.regeltekst.lid74) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29 (nl.imow-ws0659.regeltekst.art53)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_3 (nl.imow-ws0659.regeltekst.lid75)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34 (nl.imow-ws0659.regeltekst.art58)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34__para_1 (nl.imow-ws0659.regeltekst.lid76) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34 (nl.imow-ws0659.regeltekst.art58)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34__para_2 (nl.imow-ws0659.regeltekst.lid77)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35 (nl.imow-ws0659.regeltekst.art59)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_1 (nl.imow-ws0659.regeltekst.lid78) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35 (nl.imow-ws0659.regeltekst.art59)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_2 (nl.imow-ws0659.regeltekst.lid79) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35 (nl.imow-ws0659.regeltekst.art59)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_3 (nl.imow-ws0659.regeltekst.lid80)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40 (nl.imow-ws0659.regeltekst.art64)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_1 (nl.imow-ws0659.regeltekst.lid90) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40 (nl.imow-ws0659.regeltekst.art64)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_2 (nl.imow-ws0659.regeltekst.lid91) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40 (nl.imow-ws0659.regeltekst.art64)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_3 (nl.imow-ws0659.regeltekst.lid92)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41 (nl.imow-ws0659.regeltekst.art65)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_1 (nl.imow-ws0659.regeltekst.lid93) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41 (nl.imow-ws0659.regeltekst.art65)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_2 (nl.imow-ws0659.regeltekst.lid94) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41 (nl.imow-ws0659.regeltekst.art65)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_3 (nl.imow-ws0659.regeltekst.lid95)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49 (nl.imow-ws0659.regeltekst.art73)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49__para_1 (nl.imow-ws0659.regeltekst.lid101) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49 (nl.imow-ws0659.regeltekst.art73)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49__para_2 (nl.imow-ws0659.regeltekst.lid102)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54 (nl.imow-ws0659.regeltekst.art78)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54__para_1 (nl.imow-ws0659.regeltekst.lid106) artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54 (nl.imow-ws0659.regeltekst.art78)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54__para_2 (nl.imow-ws0659.regeltekst.lid107)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.10__art_2.57 (nl.imow-ws0659.regeltekst.art81)  --> lid-wId: ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.10__art_2.57__para_2 (nl.imow-ws0659.regeltekst.lid110)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19 (nl.imow-ws0659.regeltekst.art126)  --> lid-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19__para_1 (nl.imow-ws0659.regeltekst.lid150) artikel-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19 (nl.imow-ws0659.regeltekst.art126)  --> lid-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19__para_2 (nl.imow-ws0659.regeltekst.lid151)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35 (nl.imow-ws0659.regeltekst.art142)  --> lid-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_1 (nl.imow-ws0659.regeltekst.lid169) artikel-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35 (nl.imow-ws0659.regeltekst.art142)  --> lid-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_2 (nl.imow-ws0659.regeltekst.lid170) artikel-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35 (nl.imow-ws0659.regeltekst.art142)  --> lid-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_3 (nl.imow-ws0659.regeltekst.lid171)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.36 (nl.imow-ws0659.regeltekst.art143)  --> lid-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.36__para_2 (nl.imow-ws0659.regeltekst.lid173)  
+                      H:TPOD2060:
+                      Als een Regeltekst van een Lid is gemaakt mag er geen Regeltekst meer gemaakt worden van het artikel dat boven dit Lid hangt. Betreft: artikel-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48 (nl.imow-ws0659.regeltekst.art155)  --> lid-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48__para_1 (nl.imow-ws0659.regeltekst.lid181) artikel-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48 (nl.imow-ws0659.regeltekst.art155)  --> lid-wId: ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48__para_2 (nl.imow-ws0659.regeltekst.lid182) 

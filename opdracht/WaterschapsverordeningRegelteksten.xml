@@ -222,76 +222,6 @@
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
-      <!-- art_2.22.2 -->
-      <!-- item_o_5 -->
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid62</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000008</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.lid62"/>
-               </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml07"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.7"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000004</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <!-- art_2.22.3 -->
-      <!-- item_o_6 -->
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid63</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000009</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.lid63"/>
-               </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml08"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.7"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000005</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
       <!-- art_2.26 -->
       <sl:stand>
          <ow-dc:owObject>
@@ -670,43 +600,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art27</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.4">
                <r:identificatie>nl.imow-ws0659.regeltekst.art28</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art29</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art30</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art31</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art32</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -768,36 +663,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.20">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art44</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.21">
                <r:identificatie>nl.imow-ws0659.regeltekst.art45</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art46</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art47</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art49</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -817,29 +684,8 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art53</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.30">
                <r:identificatie>nl.imow-ws0659.regeltekst.art54</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art58</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art59</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -854,20 +700,6 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.37">
                <r:identificatie>nl.imow-ws0659.regeltekst.art61</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art64</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art65</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -901,13 +733,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art73</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.52">
                <r:identificatie>nl.imow-ws0659.regeltekst.art76</r:identificatie>
             </r:Regeltekst>
@@ -922,13 +747,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art78</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.10__art_2.55">
                <r:identificatie>nl.imow-ws0659.regeltekst.art79</r:identificatie>
             </r:Regeltekst>
@@ -938,13 +756,6 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.10__art_2.56">
                <r:identificatie>nl.imow-ws0659.regeltekst.art80</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.10__art_2.57">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art81</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -1160,13 +971,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art126</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.20">
                <r:identificatie>nl.imow-ws0659.regeltekst.art127</r:identificatie>
             </r:Regeltekst>
@@ -1230,20 +1034,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art142</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.36">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art143</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.9__art_3.37">
                <r:identificatie>nl.imow-ws0659.regeltekst.art144</r:identificatie>
             </r:Regeltekst>
@@ -1288,13 +1078,6 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.47">
                <r:identificatie>nl.imow-ws0659.regeltekst.art154</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art155</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -1489,174 +1272,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid31</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid32</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid33</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid34</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid35</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid36</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid38</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid39</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid40</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid41</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid61</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid64</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid65</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid66</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid68</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_4">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid69</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid73</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid74</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid75</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid76</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid77</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid78</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid79</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid80</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.39__para_1">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid84</r:identificatie>
             </r:Regeltekst>
@@ -1699,48 +1314,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid90</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid91</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid92</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid93</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid94</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid95</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.44__para_1">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid96</r:identificatie>
             </r:Regeltekst>
@@ -1771,34 +1344,6 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.46__para_2">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid100</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid101</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid102</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid106</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid107</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -1993,20 +1538,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid150</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid151</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.21__para_2">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid153</r:identificatie>
             </r:Regeltekst>
@@ -2063,34 +1594,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid169</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid170</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_3">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid171</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.36__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid173</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.9__art_3.40__para_1">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid174</r:identificatie>
             </r:Regeltekst>
@@ -2121,20 +1624,6 @@
          <ow-dc:owObject>
             <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.9__art_3.41__para_3">
                <r:identificatie>nl.imow-ws0659.regeltekst.lid178</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48__para_1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid181</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48__para_2">
-               <r:identificatie>nl.imow-ws0659.regeltekst.lid182</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -2336,52 +1825,6 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.1">
-               <r:identificatie>nl.imow-ws0659.regeltekst.art25</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000023</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art25"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000024</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art27"/>
-               </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.1"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000012</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000025</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -2402,62 +1845,6 @@
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000026</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art29"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000027</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art30"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000028</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art31"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000029</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art32"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -2633,20 +2020,6 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000038</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art44"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000039</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
@@ -2660,28 +2033,30 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid64</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000040</r:identificatie>
+               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000152</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art46"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.lid64"/>
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.0"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.8"/>
                   <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000019</r:identificatie>
+                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000108</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml11"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml29"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.3"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2690,45 +2065,33 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000041</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art47"/>
-               </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.0"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000020</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml11"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml29"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.3"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.23__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid65</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000042</r:identificatie>
+               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000153</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art49"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.lid65"/>
                </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.8"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000109</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -2774,20 +2137,6 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000045</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art53"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000046</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
@@ -2807,34 +2156,6 @@
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000047</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art58"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000048</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art59"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -2887,34 +2208,6 @@
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000051</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art64"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml22"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000052</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art65"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -3023,20 +2316,6 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000057</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art73"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000058</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
@@ -3081,20 +2360,6 @@
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000060</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art78"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -3147,20 +2412,6 @@
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000063</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art81"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-               </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
@@ -3953,20 +3204,6 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000094</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art126"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000095</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
@@ -4217,50 +3454,6 @@
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000104</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art142"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.3"/>
-               </r:locatieaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000105</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art143"/>
-               </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.3"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.0"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000071</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml11"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml29"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.3"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000106</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
@@ -4454,36 +3647,6 @@
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.0"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000078</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml11"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml29"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.2"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.3"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000113</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.art155"/>
-               </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.0"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000079</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml11"/>
@@ -5310,6 +4473,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid31</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000141</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5321,6 +4491,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid32</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5340,6 +4517,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.5__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid33</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000143</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5355,6 +4539,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid34</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000144</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5363,9 +4554,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml02"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid35</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5385,6 +4583,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.1__art_2.6__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid36</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000146</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5400,6 +4605,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid38</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000147</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5408,9 +4620,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.7__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid39</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5423,9 +4642,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid40</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5438,9 +4664,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.2__art_2.8__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid41</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5453,9 +4686,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid61</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5468,12 +4708,81 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml02"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.7"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000107</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml02"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- art_2.22.2 -->
+      <!-- item_o_5 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid62</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000008</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.lid62"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml07"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.7"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000004</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
+            </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <!-- art_2.22.3 -->
+      <!-- item_o_6 -->
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.4__art_2.22__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid63</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:RegelVoorIedereen>
+               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000009</r:identificatie>
+               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
+               <r:artikelOfLid>
+                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.lid63"/>
+               </r:artikelOfLid>
+               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
+               <r:locatieaanduiding>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml08"/>
+               </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.7"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000005</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
@@ -5486,52 +4795,9 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000152</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.lid64"/>
-               </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.8"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000108</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0659.juridischeregel.art4000153</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0659.regeltekst.lid65"/>
-               </r:artikelOfLid>
-               <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.8"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0659.activiteitlocatieaanduiding.art4000109</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid66</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5544,9 +4810,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml19"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid68</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5566,6 +4839,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.5__art_2.25__para_4">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid69</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000156</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5581,6 +4861,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid73</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000157</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5589,9 +4876,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid74</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5604,9 +4898,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.29__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid75</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5619,9 +4920,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid76</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5634,9 +4942,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.34__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid77</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5649,9 +4964,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid78</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5664,9 +4986,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid79</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5679,9 +5008,16 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.6__art_2.35__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid80</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5694,7 +5030,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -5791,6 +5127,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid90</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000171</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5802,6 +5145,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml22"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid91</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5821,6 +5171,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.40__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid92</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000173</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5832,6 +5189,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml22"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid93</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5851,6 +5215,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid94</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000175</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5862,6 +5233,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml21"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.7__art_2.41__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid95</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5893,6 +5271,7 @@
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
+
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
@@ -5956,6 +5335,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid101</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000182</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5967,6 +5353,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.1"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.8__art_2.49__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid102</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -5986,6 +5379,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid106</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000184</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -5997,6 +5397,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_2__subchp_2.1__subsec_2.1.9__art_2.54__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid107</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -6420,6 +5827,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid150</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000213</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -6431,6 +5845,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebiedengroep.3"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.5__art_3.19__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid151</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -6581,6 +6002,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid169</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000223</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -6592,6 +6020,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid170</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -6611,6 +6046,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.35__para_3">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid171</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000225</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -6622,6 +6064,13 @@
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.8__art_3.36__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid173</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
@@ -6727,6 +6176,13 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48__para_1">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid181</r:identificatie>
+            </r:Regeltekst>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
             <r:RegelVoorIedereen>
                <r:identificatie>nl.imow-ws0659.juridischeregel.art4000232</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
@@ -6753,6 +6209,13 @@
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <r:Regeltekst wId="ws0659_1.0__chp_3__subchp_3.1__subsec_3.1.11__art_3.48__para_2">
+               <r:identificatie>nl.imow-ws0659.regeltekst.lid182</r:identificatie>
+            </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
