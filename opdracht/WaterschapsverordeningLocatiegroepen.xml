@@ -19,56 +19,10 @@
          <sl:gebied>Gebiedengroepen</sl:gebied>
          <sl:leveringsId>abc-2019612-1</sl:leveringsId>
          <sl:objectTypen>
-            <sl:objectType>Gebiedengroep</sl:objectType>
             <sl:objectType>Gebied</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebiedengroep>
-               <l:identificatie>nl.imow-ws0659.gebiedengroep.1</l:identificatie>
-               <l:noemer>groep1</l:noemer>
-               <l:groepselement>
-                  <!-- secundair water -->
-                  <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
-                  <!-- meanderzone -->
-                  <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml07"/>
-                  <!-- inundatiegebied -->
-                  <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml08"/>
-               </l:groepselement>
-            </l:Gebiedengroep>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebiedengroep>
-               <l:identificatie>nl.imow-ws0659.gebiedengroep.2</l:identificatie>
-               <l:noemer>groep2</l:noemer>
-               <l:groepselement>
-                  <!-- secundair water -->
-                  <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml03"/>
-               </l:groepselement>
-            </l:Gebiedengroep>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <l:Gebiedengroep>
-               <l:identificatie>nl.imow-ws0659.gebiedengroep.3</l:identificatie>
-               <l:noemer>groep3</l:noemer>
-               <l:groepselement>
-                  <!-- profiel vrijeruimte keringen -->
-                  <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml11"/>
-                  <!-- buitenbeschermingszone keringen -->
-                  <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml12"/>
-                  <!-- beschermingszone keringen -->
-                  <l:GebiedRef xlink:href="nl.imow-ws0659.gebied.gml14"/>
-               </l:groepselement>
-            </l:Gebiedengroep>
-         </ow-dc:owObject>
-      </sl:stand>
       <!-- primair water -->
-      <!-- o_1 -->
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
@@ -81,7 +35,6 @@
          </ow-dc:owObject>
       </sl:stand>
       <!-- secundair water -->
-      <!-- o_2 -->
       <sl:stand>
          <ow-dc:owObject>
             <l:Gebied>
