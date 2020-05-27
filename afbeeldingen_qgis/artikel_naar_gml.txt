@@ -7,140 +7,138 @@
 	Art 2.2																				gml42
 	Art 2.3 lid 1	gml02, 	gml03
 	Art 2.3 lid 2	gml03, 	gml03
-Art 2.4																				gml42
-Art 2.6 lid 1	gml02
-Art 2.6 lid 2	gml03
-*Art 2.7																				gml42
-*Art 2.7 lid 1																			gml42
-Art 2.7 lid 2																			gml42
-Art 2.8																				gml42
-Art 2.9																				gml42
-Art 2.12 lid 1																			gml42
-Art 2.12 lid 2																			gml42
-Art 2.13																			gml42
-Art 2.14																			gml42
-Art 2.15																		gml41
-Art 2.16																		gml41
-Art 2.17																			gml42
-Art 2.18	gml02, 	gml03
-Art 2.19																			gml42
-Art 2.20 lid 3			gml04
-Art 2.20 lid 4				gml05
-Art 2.22 lid 1																			gml42
-Art 2.22 lid 2					gml07
-Art 2.22 lid 3						gml08
-Art 2.23 lid 1																			gml42
-Art 2.24																			gml42
-Art 2.25 lid 1										gml19
-Art 2.25 lid 3					gml07
-Art 2.25 lid 4						gml08
-Art 2.26																			gml42
-Art 2.27																			gml42
-Art 2.28 lid 1	gml02, 	gml03								gml19
-Art 2.28 lid 2	gml02
-Art 2.28 lid 3					gml07,	gml08
-Art 2.29 																			gml42
-Art 2.30																			gml42				
-Art 2.32					gml07
-Art 2.33						gml08
-Art 2.36													gml23						gml42
-Art 2.37													gml23						gml42
-Art 2.38 lid 1											gml21
-Art 2.38 lid 2												gml22
-Art 2.38 lid 3													gml23
-Art 2.39 lid 1											gml21
-Art 2.39 lid 2											gml21
-Art 2.39 lid 3											gml21
-Art 2.39 lid 4											gml21
-Art 2.39 lid 5											gml21
-Art 2.39 lid 6											gml21
-Art 2.40 lid 1												gml22
-Art 2.40 lid 2												gml22
-Art 2.40 lid 3												gml22
-Art 2.41 lid 1											gml21,	gml22
-Art 2.41 lid 2											gml21,	gml22
-Art 2.41 lid 3											gml21,	gml22
-*Art 2.42											gml21,	gml22,	gml23
-*Art 2.42 lid 2					gml07
-Art 2.43													gml23
-Art 2.44 lid 1													gml23
-Art 2.44 lid 2													gml23
-Art 2.44 lid 3													gml23
-Art 2.45																		gml41
-Art 2.46 lid 1	gml02									gml19
-Art 2.47																			gml42
-Art 2.48																			gml42
-Art 2.49 lid 1	gml02, 	gml03
-Art 2.49 lid 2						gml08
-Art 2.50 lid 1														gml25
-Art 2.50 lid 2					gml07
-Art 2.50 lid 3						gml08
-Art 2.51	gml02, 	gml03								gml19
-Art 2.52																			gml42
-Art 2.53					gml07, 	gml08													gml42
-Art 2.54 lid 1										gml19
-Art 2.55																			gml42
-Art 2.56					gml07,	gml08													gml42
-Art 2.57 lid 2										gml19					gml27
-Art 2.58 lid 1										gml19					gml27
-Art 2.60										gml19
-Art 2.61																gml29			gml42
-Art 2.62																			gml42
-Art 2.63																			gml42
-Art 2.64																gml29
-Art 2.67																				gml42
-Art 2.68																				gml42
-Art 2.69 lid 1	gml02, 	gml03								gml19
-Art 2.73																				gml42
-Art 2.74																				gml42
-Art 2.77	gml02, 	gml03
-Art 2.78																				gml42
-Art 2.79																				gml42
-Art 2.80	gml02
-Art 2.81	gml02, 	gml03
-Art 2.83	gml02, 	gml03
-Art 3.1																		gml41
-Art 3.2																	gml29
-Art 3.3																		gml41
-Art 3.4 lid 1										gml19
-Art 3.5 lid 1									gml14
-Art 3.6																		gml41
-Art 3.7								gml11,	gml12,	gml14,	gml19
-Art 3.9 lid 1										gml19
-Art 3.9 lid 2							gml11,	gml12,	gml14
-Art 3.10							gml11,	gml12, 	gml14,	gml19
-Art 3.12 lid 1										gml19
-Art 3.12 lid 2									gml14
-Art 3.13							gml11,	gml12,	gml14,	gml19
-Art 3.18										gml19
-Art 3.19							gml11,	gml12, 	gml14,	gml19
-Art 3.21 lid 1										gml19
-Art 3.22							gml11,	gml12, 	gml14,	gml19
-Art 3.24 lid 1									gml14,	gml19
-Art 3.27										gml19
-Art 3.28							gml11,	gml12,	gml14,	gml19
-Art 3.30 lid 1										gml19
-Art 3.30 lid 2									gml14
-Art 3.31							gml11,	gml12,	gml14,	gml19
-Art 3.33																	gml41
-Art 3.34									gml14
-Art 3.36 lid 1										gml19
-Art 3.36 lid 2									gml14
-Art 3.37							gml11,	gml12,	gml14,	gml19
-Art 3.39																	gml41
-Art 3.42										gml19
-Art 3.43							gml11,	gml12,	gml14,	gml19
-Art 3.45 lid 1										gml19
-Art 3.45 lid 2							gml11
-Art 3.46							gml11,	gml12,	gml14,	gml19
-Art 3.48 lid 1									gml14
-Art 3.48 lid 2									gml14
-Art 3.52 lid 1										gml19
-Art 3.52 lid 2									gml14
-Art 3.53							gml11,	gml12,	gml14,	gml19
-Art 3.56							gml11,	gml12,	gml14,	gml19
-Art 3.58									gml14
-Art 3.59 lid 3										gml19
+	Art 2.4																				gml42
+	Art 2.6 lid 1	gml02
+	Art 2.6 lid 2	gml03
+	Art 2.7 lid 1																			gml42
+	Art 2.7 lid 2																			gml42
+	Art 2.8																				gml42
+	Art 2.9																				gml42
+	Art 2.12 lid 1																			gml42
+	Art 2.12 lid 2																			gml42
+	Art 2.13																			gml42
+	Art 2.14																			gml42
+	Art 2.15																		gml41
+	Art 2.16																		gml41
+	Art 2.17																			gml42
+	Art 2.18	gml02, 	gml03
+	Art 2.19																			gml42
+	Art 2.20 lid 3			gml04
+	Art 2.20 lid 4				gml05
+	Art 2.22 lid 1																			gml42
+	Art 2.22 lid 2					gml07
+	Art 2.22 lid 3						gml08
+	Art 2.23 lid 1																			gml42
+	Art 2.24																			gml42
+	Art 2.25 lid 1										gml19
+	Art 2.25 lid 3					gml07
+	Art 2.25 lid 4						gml08
+	Art 2.26																			gml42
+	Art 2.27																			gml42
+	Art 2.28 lid 1	gml02, 	gml03								gml19
+	Art 2.28 lid 2	gml02
+	Art 2.28 lid 3					gml07,	gml08
+	Art 2.29 																			gml42
+	Art 2.30																			gml42				Art 2.32					gml07
+	Art 2.33						gml08
+	Art 2.36													gml23						gml42
+	Art 2.37													gml23						gml42
+	Art 2.38 lid 1											gml21
+	Art 2.38 lid 2												gml22
+	Art 2.38 lid 3													gml23
+	Art 2.39 lid 1											gml21
+	Art 2.39 lid 2											gml21
+	Art 2.39 lid 3											gml21
+	Art 2.39 lid 4											gml21
+	Art 2.39 lid 5											gml21
+	Art 2.39 lid 6											gml21
+	Art 2.40 lid 1												gml22
+	Art 2.40 lid 2												gml22
+	Art 2.40 lid 3												gml22
+	Art 2.41 lid 1											gml21,	gml22
+	Art 2.41 lid 2											gml21,	gml22
+	Art 2.41 lid 3											gml21,	gml22
+	*Art 2.42											gml21,	gml22,	gml23
+	*Art 2.42 lid 2					gml07
+	Art 2.43													gml23
+	Art 2.44 lid 1													gml23
+	Art 2.44 lid 2													gml23
+	Art 2.44 lid 3													gml23
+	Art 2.45																		gml41
+	Art 2.46 lid 1	gml02									gml19
+	Art 2.47																			gml42
+	Art 2.48																			gml42
+	Art 2.49 lid 1	gml02, 	gml03
+	Art 2.49 lid 2						gml08
+	Art 2.50 lid 1														gml25
+	Art 2.50 lid 2					gml07
+	Art 2.50 lid 3						gml08
+	Art 2.51	gml02, 	gml03								gml19
+	Art 2.52																			gml42
+	Art 2.53					gml07, 	gml08													gml42
+	Art 2.54 lid 1										gml19
+	Art 2.55																			gml42
+	Art 2.56					gml07,	gml08													gml42
+	Art 2.57 lid 2										gml19					gml27
+	Art 2.58 lid 1										gml19					gml27
+	Art 2.60										gml19
+	Art 2.61																gml29			gml42
+	Art 2.62																			gml42
+	Art 2.63																			gml42
+	Art 2.64																gml29
+	Art 2.67																				gml42
+	Art 2.68																				gml42
+	Art 2.69 lid 1	gml02, 	gml03								gml19
+	Art 2.73																				gml42
+	Art 2.74																				gml42
+	Art 2.77	gml02, 	gml03
+	Art 2.78																				gml42
+	Art 2.79																				gml42
+	Art 2.80	gml02
+	Art 2.81	gml02, 	gml03
+	Art 2.83	gml02, 	gml03
+	Art 3.1																		gml41
+	Art 3.2																	gml29
+	Art 3.3																		gml41
+	Art 3.4 lid 1										gml19
+	Art 3.5 lid 1									gml14
+	Art 3.6																		gml41
+	Art 3.7								gml11,	gml12,	gml14,	gml19
+	Art 3.9 lid 1										gml19
+	Art 3.9 lid 2							gml11,	gml12,	gml14
+	Art 3.10							gml11,	gml12, 	gml14,	gml19
+	Art 3.12 lid 1										gml19
+	Art 3.12 lid 2									gml14
+	Art 3.13							gml11,	gml12,	gml14,	gml19
+	Art 3.18										gml19
+	Art 3.19							gml11,	gml12, 	gml14,	gml19
+	Art 3.21 lid 1										gml19
+	Art 3.22							gml11,	gml12, 	gml14,	gml19
+	Art 3.24 lid 1									gml14,	gml19
+	Art 3.27										gml19
+	Art 3.28							gml11,	gml12,	gml14,	gml19
+	Art 3.30 lid 1										gml19
+	Art 3.30 lid 2									gml14
+	Art 3.31							gml11,	gml12,	gml14,	gml19
+	Art 3.33																	gml41
+	Art 3.34									gml14
+	Art 3.36 lid 1										gml19
+	Art 3.36 lid 2									gml14
+	Art 3.37							gml11,	gml12,	gml14,	gml19
+	Art 3.39																	gml41
+	Art 3.42										gml19
+	Art 3.43							gml11,	gml12,	gml14,	gml19
+	Art 3.45 lid 1										gml19
+	Art 3.45 lid 2							gml11
+	Art 3.46							gml11,	gml12,	gml14,	gml19
+	Art 3.48 lid 1									gml14
+	Art 3.48 lid 2									gml14
+`	Art 3.52 lid 1										gml19
+	Art 3.52 lid 2									gml14
+	Art 3.53							gml11,	gml12,	gml14,	gml19
+	Art 3.56							gml11,	gml12,	gml14,	gml19
+	Art 3.58									gml14
+	Art 3.59 lid 3										gml19
 Art 3.61										gml19
 Art 3.62							gml11,	gml12,	gml14,	gml19
 Art 3.63 lid 1										gml19
