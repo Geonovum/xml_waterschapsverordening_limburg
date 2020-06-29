@@ -5073,6 +5073,7 @@
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0659.gebied.gml41"/>
+               </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.0"/>
                   <r:ActiviteitLocatieaanduiding>
