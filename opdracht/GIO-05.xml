@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
-                             schemaversie="1.0">
+                             schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml05</FRBRWork>
-         <FRBRExpression>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml05/nld@2019-01-04</FRBRExpression>
-         <soortWork>/join/id/stop/work_007</soortWork>
+         <FRBRWork>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.gml05</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.gml05/nld@2019-01-04</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/ws0665/2019/wvl-20190906-1643</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>WaterschapsverordeningLocaties05.gml</bestandsnaam>
+                  <hash>9b2b4e1b6d4eaab693a371241ad497b4d50bfdc6d70d0b2a268051268a8f311d54d6c15a2b4e3f9303b5f31e313e65e839185eebc058fdcc4e41945c5f9e4886</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <eindverantwoordelijke>/tooi/id/waterschap/ws0659</eindverantwoordelijke>
-         <maker>/tooi/id/waterschap/ws0659</maker>
+         <eindverantwoordelijke>/tooi/id/waterschap/ws0665</eindverantwoordelijke>
+         <maker>/tooi/id/waterschap/ws0665</maker>
          <alternatieveTitels>
             <alternatieveTitel>oppervlaktewateren Afwateringskanaal, Neerbeek, Haelensebeek, Tungelroysebeek, Leukerbeek en Uffeltsebeek</alternatieveTitel>
          </alternatieveTitels>
          <officieleTitel>oppervlaktewateren Afwateringskanaal, Neerbeek, Haelensebeek, Tungelroysebeek, Leukerbeek en Uffeltsebeek</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>oppervlaktewateren Afwateringskanaal, Neerbeek, Haelensebeek, Tungelroysebeek, Leukerbeek en Uffeltsebeek</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <soortenInformatieobject>
-            <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
-         </soortenInformatieobject>
-         <heeftGeboorteregeling>/akn/nl/act/ws0659/2019/wvl-20190906-1643</heeftGeboorteregeling>
-         <heeftBestanden>
-            <heeftBestand>
-               <Bestand>
-                  <bestandsnaam>WaterschapsverordeningLocaties05.gml</bestandsnaam>
-                  <hash>d44f7f47726b6ec53d710f4cf40af4a1d40e7e18c7d67fa31bcd40423bf142a5ee072c5a567ed1f7c227a4e87b2cb77123d7550d4de85ffbe3825e1f00a38eb8</hash>
-               </Bestand>
-            </heeftBestand>
-         </heeftBestanden>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
-                             schemaversie="1.0">
+                             schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml19</FRBRWork>
-         <FRBRExpression>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml19/nld@2019-01-04</FRBRExpression>
-         <soortWork>/join/id/stop/work_007</soortWork>
+         <FRBRWork>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.gml19</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.gml19/nld@2019-01-04</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/ws0665/2019/wvl-20190906-1643</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>WaterschapsverordeningLocaties19.gml</bestandsnaam>
+                  <hash>e7267f5e318fcd606838f4035644aa5f78cf4bb3cba9aa674a509c6c568eb6f895563f7130e549603b00bec9d346c80878a0d10f2d9a519524d0ea07257c452e</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <eindverantwoordelijke>/tooi/id/waterschap/ws0659</eindverantwoordelijke>
-         <maker>/tooi/id/waterschap/ws0659</maker>
+         <eindverantwoordelijke>/tooi/id/waterschap/ws0665</eindverantwoordelijke>
+         <maker>/tooi/id/waterschap/ws0665</maker>
          <alternatieveTitels>
             <alternatieveTitel>kernzonesysteem</alternatieveTitel>
          </alternatieveTitels>
          <officieleTitel>kernzonesysteem</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>kernzonesysteem</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <soortenInformatieobject>
-            <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
-         </soortenInformatieobject>
-         <heeftGeboorteregeling>/akn/nl/act/ws0659/2019/wvl-20190906-1643</heeftGeboorteregeling>
-         <heeftBestanden>
-            <heeftBestand>
-               <Bestand>
-                  <bestandsnaam>WaterschapsverordeningLocaties19.gml</bestandsnaam>
-                  <hash>f4c89e73afbea8cbe3d779763c94dea12b83f0c5ea00982dd3ba07199a720e50be4df1871a2dc6e67f7be41b940ffcc43a72a9d2d0ab1bade8047b3082c736ca</hash>
-               </Bestand>
-            </heeftBestand>
-         </heeftBestanden>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

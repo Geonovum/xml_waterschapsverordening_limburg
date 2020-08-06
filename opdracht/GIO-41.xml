@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/ ../lvbb/lvbb-stop-aanlevering.xsd"
-                             schemaversie="1.0">
+                             schemaversie="1.0.3">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml41</FRBRWork>
-         <FRBRExpression>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml41/nld@2019-01-04</FRBRExpression>
-         <soortWork>/join/id/stop/work_007</soortWork>
+         <FRBRWork>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.gml41</FRBRWork>
+         <FRBRExpression>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.gml41/nld@2019-01-04</FRBRExpression>
+         <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
+      <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+         <heeftGeboorteregeling>/akn/nl/act/ws0665/2019/wvl-20190906-1643</heeftGeboorteregeling>
+         <heeftBestanden>
+            <heeftBestand>
+               <Bestand>
+                  <bestandsnaam>WaterschapsverordeningLocaties41.gml</bestandsnaam>
+                  <hash>409066460f1faeb5797eaad3cdc06c0f4f23a4d2f0444276097aa6d8be0a58da7f0643b80392cc8ad293157befdd9bfeb7ba1f43bfcb958c351965ab0de7d8c4</hash>
+               </Bestand>
+            </heeftBestand>
+         </heeftBestanden>
+      </InformatieObjectVersieMetadata>
       <InformatieObjectMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <eindverantwoordelijke>/tooi/id/waterschap/ws0659</eindverantwoordelijke>
-         <maker>/tooi/id/waterschap/ws0659</maker>
+         <eindverantwoordelijke>/tooi/id/waterschap/ws0665</eindverantwoordelijke>
+         <maker>/tooi/id/waterschap/ws0665</maker>
          <alternatieveTitels>
             <alternatieveTitel>werkingsgebied</alternatieveTitel>
          </alternatieveTitels>
          <officieleTitel>werkingsgebied</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
+         <naamInformatieObject>werkingsgebied</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
-         <soortenInformatieobject>
-            <soortInformatieobject>/join/id/stop/informatieobject/gio_001</soortInformatieobject>
-         </soortenInformatieobject>
-         <heeftGeboorteregeling>/akn/nl/act/ws0659/2019/wvl-20190906-1643</heeftGeboorteregeling>
-         <heeftBestanden>
-            <heeftBestand>
-               <Bestand>
-                  <bestandsnaam>WaterschapsverordeningLocaties41.gml</bestandsnaam>
-                  <hash>89f728475834bbcc0a43dce1f3c3b3cfd5beaea48aec6d69d304fcba39911da2b3067a5d2329e32888b5b87e05e1c3a7bfc7c489e14a640e8afff8182e886a5d</hash>
-               </Bestand>
-            </heeftBestand>
-         </heeftBestanden>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>
 </AanleveringInformatieObject>

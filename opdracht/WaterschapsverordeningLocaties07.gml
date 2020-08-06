@@ -5,7 +5,7 @@
                                      xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                                      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                                      xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../stop/imop-geo.xsd"
-                                     schemaversie="1.0">
+                                     schemaversie="1.0.3">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml07</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/ws0659/2019/nl.imow-ws0659.gebied.gml07/nld@2019-01-04</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.gml07</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.gml07/nld@2019-01-04</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
