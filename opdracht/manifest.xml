@@ -28,6 +28,10 @@
 		<lvbb:bestandsnaam>WaterschapsverordeningLocatiegroepen.xml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/xml</lvbb:contentType>
 	</lvbb:bestand>
+	<lvbb:bestand>
+		<lvbb:bestandsnaam>WaterschapsverordeningRegelingsgebied.xml</lvbb:bestandsnaam>
+		<lvbb:contentType>application/xml</lvbb:contentType>
+	</lvbb:bestand>
 	<!-- OP en OW -->
 	<lvbb:bestand>
 		<lvbb:bestandsnaam>WaterschapsverordeningLocaties03.gml</lvbb:bestandsnaam>
@@ -102,7 +106,15 @@
 		<lvbb:bestandsnaam>WaterschapsverordeningLocaties42.gml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
+	<lvbb:bestand>
+		<lvbb:bestandsnaam>Regelingsgebied.gml</lvbb:bestandsnaam>
+		<lvbb:contentType>application/gml+xml</lvbb:contentType>
+	</lvbb:bestand>
 	<!-- GIO's -->
+	<lvbb:bestand>
+		<lvbb:bestandsnaam>GIO-00.xml</lvbb:bestandsnaam>
+		<lvbb:contentType>application/xml</lvbb:contentType>
+	</lvbb:bestand>
 	<lvbb:bestand>
 		<lvbb:bestandsnaam>GIO-02.xml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/xml</lvbb:contentType>

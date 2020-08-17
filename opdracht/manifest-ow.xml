@@ -20,5 +20,9 @@
          <objecttype>Gebied</objecttype>
          <objecttype>Gebiedengroep</objecttype>
       </Bestand>
+      <Bestand>
+         <naam>WaterschapsverordeningRegelingsgebied.xml</naam>
+         <objecttype>Regelingsgebied</objecttype>
+      </Bestand>
    </Aanlevering>
 </Aanleveringen>

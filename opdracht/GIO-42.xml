@@ -12,7 +12,7 @@
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
-                  <bestandsnaam>WaterschapsverordeningLocaties42.gml</bestandsnaam>
+                  <bestandsnaam>Regelingsgebied.gml</bestandsnaam>
                   <hash>ce741f8d12ae9d0c0b980d7d5bb240dd3fea02fffe843caf5d2715649a08d6449c9d30e3cf8c968592b1029c8bc7aba9898a112e5d26f08ee8a62a9533e8e7d7</hash>
                </Bestand>
             </heeftBestand>
@@ -22,11 +22,11 @@
          <eindverantwoordelijke>/tooi/id/waterschap/ws0665</eindverantwoordelijke>
          <maker>/tooi/id/waterschap/ws0665</maker>
          <alternatieveTitels>
-            <alternatieveTitel>oppervlaktewater</alternatieveTitel>
+            <alternatieveTitel>regelingsgebied</alternatieveTitel>
          </alternatieveTitels>
-         <officieleTitel>oppervlaktewater</officieleTitel>
+         <officieleTitel>/join/id/regdata/ws0665/2019/nl.imow-ws0665.gebied.regelingsgebied/nld@2019-01-04</officieleTitel>
          <publicatieinstructie>TeConsolideren</publicatieinstructie>
-         <naamInformatieObject>oppervlaktewater</naamInformatieObject>
+         <naamInformatieObject>regelingsgebied</naamInformatieObject>
          <formaatInformatieobject>/join/id/stop/informatieobject/gio_002</formaatInformatieobject>
       </InformatieObjectMetadata>
    </InformatieObjectVersie>

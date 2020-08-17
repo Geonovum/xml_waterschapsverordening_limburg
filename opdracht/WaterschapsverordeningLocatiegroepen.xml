@@ -290,5 +290,16 @@
             </l:Gebied>
          </ow-dc:owObject>
       </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0665.gebied.0</l:identificatie>
+               <l:noemer>regelingsgebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="51E35EF6-6E36-4FFC-87BD-8D9D4746DDAB"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
    </sl:standBestand>
 </ow-dc:owBestand>
