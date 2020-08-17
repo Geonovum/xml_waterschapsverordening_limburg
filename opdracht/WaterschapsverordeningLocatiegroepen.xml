@@ -20,6 +20,7 @@
          <sl:leveringsId>abc-2019612-1</sl:leveringsId>
          <sl:objectTypen>
             <sl:objectType>Gebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
       <!-- primair water -->

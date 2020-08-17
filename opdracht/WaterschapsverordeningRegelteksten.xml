@@ -41,7 +41,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -87,7 +87,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.4"/>
@@ -95,7 +95,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000011</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -190,7 +190,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.4"/>
@@ -198,7 +198,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000013</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -361,7 +361,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -384,7 +384,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -407,7 +407,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -430,7 +430,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -453,7 +453,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.5"/>
@@ -461,7 +461,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000014</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -539,7 +539,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.art36"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -562,7 +562,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.6"/>
@@ -570,7 +570,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000010</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -595,7 +595,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.6"/>
@@ -603,7 +603,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000016</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -694,7 +694,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.7"/>
@@ -702,7 +702,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000018</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -726,7 +726,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.art43"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -817,7 +817,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.7"/>
@@ -825,7 +825,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000107</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -916,7 +916,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.8"/>
@@ -924,7 +924,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000108</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -982,7 +982,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.8"/>
@@ -990,7 +990,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000001</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1084,7 +1084,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.9"/>
@@ -1092,7 +1092,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000006</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1117,7 +1117,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.9"/>
@@ -1125,7 +1125,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000021</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1219,7 +1219,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -1242,7 +1242,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -1265,7 +1265,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
@@ -1288,7 +1288,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.9"/>
@@ -1296,7 +1296,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000022</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1437,7 +1437,7 @@
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml23"/>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.10"/>
@@ -1446,7 +1446,7 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml23"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -1472,7 +1472,7 @@
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml23"/>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.10"/>
@@ -1481,7 +1481,7 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml23"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2042,7 +2042,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.11"/>
@@ -2050,7 +2050,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000027</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2075,7 +2075,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.11"/>
@@ -2083,7 +2083,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000028</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2224,7 +2224,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.12"/>
@@ -2232,7 +2232,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000029</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2259,7 +2259,7 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml07"/>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml08"/>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.12"/>
@@ -2269,7 +2269,7 @@
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml07"/>
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml08"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2340,7 +2340,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.13"/>
@@ -2348,7 +2348,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000031</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2375,7 +2375,7 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml07"/>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml08"/>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.13"/>
@@ -2385,7 +2385,7 @@
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml07"/>
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml08"/>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2533,7 +2533,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.14"/>
@@ -2541,7 +2541,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000036</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2665,7 +2665,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.16"/>
@@ -2673,7 +2673,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000040</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2698,7 +2698,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.16"/>
@@ -2706,7 +2706,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000041</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2854,7 +2854,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.18"/>
@@ -2862,7 +2862,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000045</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -2887,7 +2887,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.18"/>
@@ -2895,7 +2895,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000046</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3068,7 +3068,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.19"/>
@@ -3076,7 +3076,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000048</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -3101,7 +3101,7 @@
                </r:artikelOfLid>
                <r:thema>http://standaarden.omgevingswet.overheid.nl/waterenwatersystemen/id/concept/WaterEnWatersystemenWatersystemen</r:thema>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.19"/>
@@ -3109,7 +3109,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art4000049</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml42"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.gml42"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>

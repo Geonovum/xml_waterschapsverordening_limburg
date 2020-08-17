@@ -18,6 +18,7 @@
       <Bestand>
          <naam>WaterschapsverordeningLocatiegroepen.xml</naam>
          <objecttype>Gebied</objecttype>
+         <objecttype>Gebiedengroep</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>
