@@ -187,4 +187,8 @@
 		<lvbb:bestandsnaam>GIO-42.xml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/xml</lvbb:contentType>
 	</lvbb:bestand>
+	<lvbb:bestand>
+		<lvbb:bestandsnaam>GIO-regelingsgebied.xml</lvbb:bestandsnaam>
+		<lvbb:contentType>application/xml</lvbb:contentType>
+	</lvbb:bestand>
 </lvbb:manifest>
