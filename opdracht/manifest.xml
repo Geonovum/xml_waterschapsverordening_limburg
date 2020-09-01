@@ -75,7 +75,7 @@
 	</lvbb:bestand>
 	<!-- OP -->
 	<lvbb:bestand>
-		<lvbb:bestandsnaam>WaterschapsverordeningLocaties02.gml</lvbb:bestandsnaam>
+		<lvbb:bestandsnaam>WaterschapsverordeningLocaties02_nieuw.gml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
 	<lvbb:bestand>
@@ -87,15 +87,15 @@
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
 	<lvbb:bestand>
-		<lvbb:bestandsnaam>WaterschapsverordeningLocaties19.gml</lvbb:bestandsnaam>
+		<lvbb:bestandsnaam>WaterschapsverordeningLocaties19_nieuw.gml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
 	<lvbb:bestand>
-		<lvbb:bestandsnaam>WaterschapsverordeningLocaties25.gml</lvbb:bestandsnaam>
+		<lvbb:bestandsnaam>WaterschapsverordeningLocaties25_nieuw.gml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
 	<lvbb:bestand>
-		<lvbb:bestandsnaam>WaterschapsverordeningLocaties27.gml</lvbb:bestandsnaam>
+		<lvbb:bestandsnaam>WaterschapsverordeningLocaties27_nieuw.gml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
 	<lvbb:bestand>
@@ -103,7 +103,7 @@
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
 	<lvbb:bestand>
-		<lvbb:bestandsnaam>WaterschapsverordeningLocaties42.gml</lvbb:bestandsnaam>
+		<lvbb:bestandsnaam>WaterschapsverordeningLocaties42_nieuw.gml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
 	<lvbb:bestand>
