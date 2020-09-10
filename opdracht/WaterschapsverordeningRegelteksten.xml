@@ -1135,7 +1135,7 @@
       <!-- 2.28.1 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.6__art_2.28_para_1">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.6__art_2.28__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.art52lid1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -1159,7 +1159,7 @@
       <!-- 2.28.2 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.6__art_2.28_para_2">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.6__art_2.28__para_2">
                <r:identificatie>nl.imow-ws0665.regeltekst.art52lid2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -1181,7 +1181,7 @@
       <!-- 2.28.3 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.6__art_2.28_para_3">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.6__art_2.28__para_3">
                <r:identificatie>nl.imow-ws0665.regeltekst.art52lid3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
