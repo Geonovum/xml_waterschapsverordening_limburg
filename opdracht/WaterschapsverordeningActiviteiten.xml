@@ -22,6 +22,7 @@
             <sl:objectType>Activiteit</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
+      <!--de bovenliggende activiteit is momenteel ingesteld op de PRE-omgeving.-->
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
