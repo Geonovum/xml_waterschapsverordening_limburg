@@ -23,11 +23,11 @@
             <sl:objectType>RegelVoorIedereen</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-      <!-- art_1.1 is toegevoegd omdat het regelingsgebied ergens aan moet hangen -->
+      <!-- art_1.1 is toegevoegd omdat de topactiviteit ergens aan moet hangen -->
       <sl:stand>
          <ow-dc:owObject>
             <r:Regeltekst wId="ws0665_1__chp_1__subchp_1.1__subsec_1.1.1__art_1.1">
-               <r:identificatie>nl.imow-ws0665.regeltekst.regelingsgebied</r:identificatie>
+               <r:identificatie>nl.imow-ws0665.regeltekst.topactiviteit</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
@@ -37,11 +37,21 @@
                <r:identificatie>nl.imow-ws0665.juridischeregel.art1000001</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.regelingsgebied"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.topactiviteit"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
                </r:locatieaanduiding>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.OOWAWV1Aansluiting"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art1000001</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
