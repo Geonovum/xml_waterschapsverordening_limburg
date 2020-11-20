@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
 <AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-                    schemaversie="1.0.3">
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    schemaversie="1.0.4"
+                    xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/akn/nl/bill/ws0665/2019/wvl-20190906-1643</FRBRWork>
@@ -10,7 +13,9 @@
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/waterschap/ws0665</eindverantwoordelijke>
          <maker>/tooi/id/waterschap/ws0665</maker>
-         <officieleTitel>Waterschapsverordening Limburg Proef 1</officieleTitel>
+         <!--soortBestuursorgaan is 'algemeen bestuur'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_70c87e3d</soortBestuursorgaan>
+         <officieleTitel>Vaststelling van Waterschapsverordening Limburg</officieleTitel>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_a71dc533</onderwerp>
          </onderwerpen>
@@ -56,7 +61,7 @@
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/akn/nl/act/ws0665/2019/wvl-20190906-1643/nld@2019-10-01;2</instrumentVersie>
-               <eId>ws0665_1__art_I</eId>
+               <eId>art_I</eId>
             </BeoogdeRegeling>
             <!-- Hier GIO's toevoegen -->
             <BeoogdInformatieobject>
@@ -64,133 +69,133 @@
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml02/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml03/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_2</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml04/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_3</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml05/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_4</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml07/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_5</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml08/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_6</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml11/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_7</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml12/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml14/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_9</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml19/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_10</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml21/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_11</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml22/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_12</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml23/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml25/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_14</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml27/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_15</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml29/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_16</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml41/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_17</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml42/nld@2019-01-04</instrumentVersie>
-               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_18</eId>
+               <eId>!initieel_reg#cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1</eId>
             </BeoogdInformatieobject>
             <BeoogdInformatieobject>
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
                <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_regelingsgebied/nld@2019-01-04</instrumentVersie>
-               <eId/>
+               <eId><!--Er is geen element ExtIoRef met dezelfde join.--></eId>
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -212,7 +217,7 @@
                   <Label>Artikel</Label>
                   <Nummer>I</Nummer>
                </Kop>
-               <Wat>De Waterschapsverordening Limburg wordt vastgesteld zoals deze in <IntRef ref="cmp_I">Bijlage I</IntRef> is opgenomen.</Wat>
+               <Wat>De Waterschapsverordening Limburg wordt vastgesteld zoals deze in <IntRef ref="cmp_I" scope="WijzigBijlage">Bijlage I</IntRef> is opgenomen.</Wat>
             </WijzigArtikel>
             <Artikel eId="art_II" wId="ws0665_1__art_II">
                <Kop>
@@ -998,7 +1003,7 @@
                                  <Lijst eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1"
                                         wId="ws0665_1__chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1"
                                         type="expliciet">
-                                    <Lijstaanhef>Voor alle activiteiten genoemd in geldt dat: <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.3">Doelcriteria</IntRef>
+                                    <Lijstaanhef>Voor alle activiteiten genoemd in geldt dat: <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.3" scope="Artikel">Doelcriteria</IntRef>
                                     </Lijstaanhef>
                                     <Li eId="chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_1"
                                         wId="ws0665_1__chp_1__subchp_1.2__subsec_1.2.1__art_1.4__list_o_1__item_1">
@@ -1139,11 +1144,11 @@
                                  <Opschrift>Toepassingscriteria</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Het dagelijks bestuur is bevoegd om ter uitvoering van de waterschapsverordening, voor de doelcriteria genoemd in , , en nadere toepassingscriteria vast te stellen. Hierbij kan het dagelijks bestuur rekening houden met plaatselijke omstandigheden. Het dagelijks bestuur geeft aan deze bevoegdheid invulling bij deze waterschapsverordening en in de beleidsregels. <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.4">Algemene doelcriteria</IntRef>
-                                    <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.5">Specifieke doelcriteria bij oppervlaktewateren</IntRef>
-                                    <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.6">Specifieke doelcriteria bij waterkeringen</IntRef>
-                                    <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.6">Specifieke doelcriteria bij waterkeringen</IntRef>
-                                    <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.7">Specifieke doelcriteria bij grondwater</IntRef>
+                                 <Al>Het dagelijks bestuur is bevoegd om ter uitvoering van de waterschapsverordening, voor de doelcriteria genoemd in , , en nadere toepassingscriteria vast te stellen. Hierbij kan het dagelijks bestuur rekening houden met plaatselijke omstandigheden. Het dagelijks bestuur geeft aan deze bevoegdheid invulling bij deze waterschapsverordening en in de beleidsregels. <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.4" scope="Artikel">Algemene doelcriteria</IntRef>
+                                    <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.5" scope="Artikel">Specifieke doelcriteria bij oppervlaktewateren</IntRef>
+                                    <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.6" scope="Artikel">Specifieke doelcriteria bij waterkeringen</IntRef>
+                                    <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.6" scope="Artikel">Specifieke doelcriteria bij waterkeringen</IntRef>
+                                    <IntRef ref="chp_1__subchp_1.2__subsec_1.2.1__art_1.7" scope="Artikel">Specifieke doelcriteria bij grondwater</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -1180,7 +1185,7 @@
                                    wId="ws0665_1__chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>Degene die de in toegestane handelingen verricht of laat verrichten en weet of redelijkerwijs had kunnen weten dat door die handeling nadelige effecten voor het watersysteem ontstaan of kunnen ontstaan, voorkomt die effecten voor zover dit redelijkerwijs van hem kan worden verwacht. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_1">.</IntRef>
+                                    <Al>Degene die de in toegestane handelingen verricht of laat verrichten en weet of redelijkerwijs had kunnen weten dat door die handeling nadelige effecten voor het watersysteem ontstaan of kunnen ontstaan, voorkomt die effecten voor zover dit redelijkerwijs van hem kan worden verwacht. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_1" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -1188,7 +1193,7 @@
                                    wId="ws0665_1__chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_3">
                                  <LidNummer>3.</LidNummer>
                                  <Inhoud>
-                                    <Al>Onder het voorkomen van nadelige effecten voor het watersysteem als bedoeld in wordt in ieder geval verstaan het voorkomen van: <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_2">.</IntRef>
+                                    <Al>Onder het voorkomen van nadelige effecten voor het watersysteem als bedoeld in wordt in ieder geval verstaan het voorkomen van: <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_2" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -1196,7 +1201,7 @@
                                    wId="ws0665_1__chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_4">
                                  <LidNummer>4.</LidNummer>
                                  <Inhoud>
-                                    <Al>Indien toch de nadelige effecten als bedoeld in optreden, is degene die de handelingen met deze effecten verricht, verplicht al hetgeen redelijkerwijs mogelijk is te doen om de gevolgen daarvan zoveel mogelijk te beperken of ongedaan te maken. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_2">.</IntRef>
+                                    <Al>Indien toch de nadelige effecten als bedoeld in optreden, is degene die de handelingen met deze effecten verricht, verplicht al hetgeen redelijkerwijs mogelijk is te doen om de gevolgen daarvan zoveel mogelijk te beperken of ongedaan te maken. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_2" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -1204,7 +1209,7 @@
                                    wId="ws0665_1__chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_5">
                                  <LidNummer>5.</LidNummer>
                                  <Inhoud>
-                                    <Al>Degene die handelingen met nadelige effecten verricht als bedoeld in , meldt die effecten zo spoedig mogelijk aan het dagelijks bestuur, als ook de maatregelen die hij van plan is te treffen of reeds heeft getroffen. Door of namens het dagelijks bestuur kunnen aanwijzingen worden gegeven voor de te treffen maatregelen, die stipt moeten worden opgevolgd. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_4">.</IntRef>
+                                    <Al>Degene die handelingen met nadelige effecten verricht als bedoeld in , meldt die effecten zo spoedig mogelijk aan het dagelijks bestuur, als ook de maatregelen die hij van plan is te treffen of reeds heeft getroffen. Door of namens het dagelijks bestuur kunnen aanwijzingen worden gegeven voor de te treffen maatregelen, die stipt moeten worden opgevolgd. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_4" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -1212,7 +1217,7 @@
                                    wId="ws0665_1__chp_1__subchp_1.3__subsec_1.3.1__art_1.9__para_6">
                                  <LidNummer>6.</LidNummer>
                                  <Inhoud>
-                                    <Al>Indien het dagelijks bestuur dat nodig oordeelt, kan, aanvullend op de in dit artikel opgenomen zorgplicht, in een op basis van vast te stellen uitvoeringsregel een specifieke zorgplicht worden opgenomen. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.10">Algemene regels</IntRef>
+                                    <Al>Indien het dagelijks bestuur dat nodig oordeelt, kan, aanvullend op de in dit artikel opgenomen zorgplicht, in een op basis van vast te stellen uitvoeringsregel een specifieke zorgplicht worden opgenomen. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.10" scope="Artikel">Algemene regels</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -1228,7 +1233,7 @@
                                    wId="ws0665_1__chp_1__subchp_1.3__subsec_1.3.1__art_1.10__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Voor handelingen waarop volgens door het dagelijks bestuur vastgestelde uitvoeringsregels bij deze keur een algemene regel van toepassing is, is het alleen toegestaan deze handelingen te verrichten of te laten verrichten met inachtneming van de per algemene regel vastgestelde voorschriften. Bij het uitvoeren van de handeling moet initiatiefnemer tevens de zorgplicht uit in acht nemen. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9">Zorgplicht</IntRef>
+                                    <Al>Voor handelingen waarop volgens door het dagelijks bestuur vastgestelde uitvoeringsregels bij deze keur een algemene regel van toepassing is, is het alleen toegestaan deze handelingen te verrichten of te laten verrichten met inachtneming van de per algemene regel vastgestelde voorschriften. Bij het uitvoeren van de handeling moet initiatiefnemer tevens de zorgplicht uit in acht nemen. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9" scope="Artikel">Zorgplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -1236,7 +1241,7 @@
                                    wId="ws0665_1__chp_1__subchp_1.3__subsec_1.3.1__art_1.10__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>Tot de voorschriften bedoeld in kan behoren de verplichting voorafgaand aan de uitvoering van de handeling een melding in te dienen bij het dagelijks bestuur, met inachtneming van de in de betreffende algemene regel daarvoor gestelde termijn. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.10__para_1">.</IntRef>
+                                    <Al>Tot de voorschriften bedoeld in kan behoren de verplichting voorafgaand aan de uitvoering van de handeling een melding in te dienen bij het dagelijks bestuur, met inachtneming van de in de betreffende algemene regel daarvoor gestelde termijn. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.10__para_1" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -1256,7 +1261,7 @@
                                  <Opschrift>Vergunningplicht</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Voor handelingen waarvoor volgens door het dagelijks bestuur vastgestelde uitvoeringsregels bij deze keur een vergunningplicht geldt, is het alleen toegestaan deze handelingen te verrichten of te laten verrichten indien het dagelijks bestuur daarvoor vooraf een vergunning heeft verleend. Bij het uitvoeren van de handeling moet initiatiefnemer en/of de gebruiker van de vergunning tevens de zorgplichten uit in acht nemen. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9">Zorgplicht</IntRef>
+                                 <Al>Voor handelingen waarvoor volgens door het dagelijks bestuur vastgestelde uitvoeringsregels bij deze keur een vergunningplicht geldt, is het alleen toegestaan deze handelingen te verrichten of te laten verrichten indien het dagelijks bestuur daarvoor vooraf een vergunning heeft verleend. Bij het uitvoeren van de handeling moet initiatiefnemer en/of de gebruiker van de vergunning tevens de zorgplichten uit in acht nemen. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.9" scope="Artikel">Zorgplicht</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -1339,8 +1344,8 @@
                                  <Opschrift>Vrijstelling beheer door het waterschap</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>De meldplicht opgenomen in een algemene regel op grond van en de vergunningplicht opgenomen in zijn niet van toepassing op handelingen die worden uitgevoerd door of in opdracht van het waterschap ten behoeve van het aan het waterschap opgedragen beheer. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.10">Algemene regels</IntRef>
-                                    <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.11">Vergunningplicht</IntRef>
+                                 <Al>De meldplicht opgenomen in een algemene regel op grond van en de vergunningplicht opgenomen in zijn niet van toepassing op handelingen die worden uitgevoerd door of in opdracht van het waterschap ten behoeve van het aan het waterschap opgedragen beheer. <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.10" scope="Artikel">Algemene regels</IntRef>
+                                    <IntRef ref="chp_1__subchp_1.3__subsec_1.3.1__art_1.11" scope="Artikel">Vergunningplicht</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -1370,8 +1375,8 @@
                                    wId="ws0665_1__chp_1__subchp_1.4__subsec_1.4.1__art_1.16__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Onderhoudsplichtig zijn degenen die in de legger ingevolge de Waterschapswet of in tot het verrichten van gewoon of buitengewoon onderhoud aan waterstaatswerken zijn aangewezen, tenzij hiervan bij vergunning of overeenkomst is afgeweken. <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.24">Onderhoud aan waterstaatswerken zonder (actuele) legger</IntRef>
-                                       <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.24">Onderhoud aan waterstaatswerken zonder (actuele) legger</IntRef>
+                                    <Al>Onderhoudsplichtig zijn degenen die in de legger ingevolge de Waterschapswet of in tot het verrichten van gewoon of buitengewoon onderhoud aan waterstaatswerken zijn aangewezen, tenzij hiervan bij vergunning of overeenkomst is afgeweken. <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.24" scope="Artikel">Onderhoud aan waterstaatswerken zonder (actuele) legger</IntRef>
+                                       <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.24" scope="Artikel">Onderhoud aan waterstaatswerken zonder (actuele) legger</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -5938,8 +5943,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.2__art_4.6__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand, niet langer dan 6 maanden en niet dieper dan 5 meter beneden NAP binnen het gebied van de Venloschol wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand, niet langer dan 6 maanden en niet dieper dan 5 meter beneden NAP binnen het gebied van de Venloschol wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -5947,8 +5952,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.2__art_4.6__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand, niet langer dan 6 maanden en niet dieper dan 20 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk I wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand, niet langer dan 6 maanden en niet dieper dan 20 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk I wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -5956,8 +5961,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.2__art_4.6__para_3">
                                  <LidNummer>3.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand, niet langer dan 6 maanden en niet dieper dan 30 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk II wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand, niet langer dan 6 maanden en niet dieper dan 30 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk II wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -5965,8 +5970,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.2__art_4.6__para_4">
                                  <LidNummer>4.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand, niet langer dan 6 maanden en niet dieper dan 80 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk III wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand, niet langer dan 6 maanden en niet dieper dan 80 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk III wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -5974,8 +5979,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.2__art_4.6__para_5">
                                  <LidNummer>5.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand en niet langer dan 6 maanden wordt onttrokken buiten het gebied van boringsvrije zone Roerdalslenk IV en buiten een bufferzones verdroogde natuurgebieden wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een bronbemaling of een bodemsanering waarbij niet meer dan 100 m grondwater per uur, niet meer dan 50.000 mgrondwater per maand en niet langer dan 6 maanden wordt onttrokken buiten het gebied van boringsvrije zone Roerdalslenk IV en buiten een bufferzones verdroogde natuurgebieden wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.7" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van een bronbemaling of een bodemsanering</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.8" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6126,7 +6131,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.2__art_4.9__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Het is verboden de activiteit, bedoeld in artikel , te verrichten zonder dit ten minste vier weken voor het begin ervan te melden. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.6">Aanwijzing algemene regels</IntRef>
+                                    <Al>Het is verboden de activiteit, bedoeld in artikel , te verrichten zonder dit ten minste vier weken voor het begin ervan te melden. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2__art_4.6" scope="Artikel">Aanwijzing algemene regels</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6236,8 +6241,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.13__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden en niet dieper dan 5 meter beneden NAP binnen het gebied van de Venloschol wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden en niet dieper dan 5 meter beneden NAP binnen het gebied van de Venloschol wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6245,8 +6250,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.13__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden en niet dieper dan 20 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk I wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden en niet dieper dan 20 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk I wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6254,8 +6259,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.13__para_3">
                                  <LidNummer>3.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden en niet dieper dan 30 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk II wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden en niet dieper dan 30 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk II wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6263,8 +6268,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.13__para_4">
                                  <LidNummer>4.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden en niet dieper dan 80 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk III wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden en niet dieper dan 80 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk III wordt onttrokken wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6272,8 +6277,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.13__para_5">
                                  <LidNummer>5.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden wordt onttrokken buiten het gebied van boringsvrije zone Roerdalslenk IV en buiten de bufferzones verdroogde natuurgebieden wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15">Algemene regels meetplicht</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van een grondwatersanering waarbij niet meer dan 20.000 m grondwater per maand, niet langer dan 36 maanden wordt onttrokken buiten het gebied van boringsvrije zone Roerdalslenk IV en buiten de bufferzones verdroogde natuurgebieden wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.14" scope="Artikel">Algemene regels onttrekken grondwater ten behoeve van grondwatersanering</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.15" scope="Artikel">Algemene regels meetplicht</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6424,7 +6429,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.3__art_4.16__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Het is verboden de activiteit, bedoeld in artikel , te verrichten zonder dit ten minste vier weken voor het begin ervan te melden. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.13">Aanwijzing algemene regels</IntRef>
+                                    <Al>Het is verboden de activiteit, bedoeld in artikel , te verrichten zonder dit ten minste vier weken voor het begin ervan te melden. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3__art_4.13" scope="Artikel">Aanwijzing algemene regels</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6556,7 +6561,7 @@
                                  <Opschrift>Aanwijzing algemene regels zonder meldplicht</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van beregening van open teelten in de landbouw waarbij onttrokken wordt uit een bij het waterschap geregistreerde put èn met een bij het waterschap geregistreerde pomp, wordt voldaan aan de artikel . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.22">Algemene regels beregening van open teelten zonder meldplicht</IntRef>
+                                 <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van beregening van open teelten in de landbouw waarbij onttrokken wordt uit een bij het waterschap geregistreerde put èn met een bij het waterschap geregistreerde pomp, wordt voldaan aan de artikel . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.22" scope="Artikel">Algemene regels beregening van open teelten zonder meldplicht</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -6568,8 +6573,8 @@
                                  <Opschrift>Aanwijzing algemene regels met meldplicht</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van beregening van open teelten in de landbouw waarbij onttrokken wordt uit een nieuwe put ter vervanging van een bij het waterschap geregistreerde put en/of uit een nieuwe pomp ter vervanging van een bij het waterschap geregistreerde pomp, wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23">Algemene regels beregening van open teelten met meldplicht</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.24">Melding</IntRef>
+                                 <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van beregening van open teelten in de landbouw waarbij onttrokken wordt uit een nieuwe put ter vervanging van een bij het waterschap geregistreerde put en/of uit een nieuwe pomp ter vervanging van een bij het waterschap geregistreerde pomp, wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23" scope="Artikel">Algemene regels beregening van open teelten met meldplicht</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.24" scope="Artikel">Melding</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -6655,7 +6660,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_5">
                                  <LidNummer>5.</LidNummer>
                                  <Inhoud>
-                                    <Al>Wijziging van de onttrekkingsput, gelegen buiten de in lid bedoelde gebieden, is toegestaan, mits het aantal onttrekkingsputten niet toeneemt, met dien verstande dat de vervangende onttrekkingsput binnen de Roerdalslenk boven de bovenste Brunssumklei wordt gerealiseerd en binnen de Venloschol niet dieper dan 5 meter boven NAP wordt gerealiseerd. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_4">.</IntRef>
+                                    <Al>Wijziging van de onttrekkingsput, gelegen buiten de in lid bedoelde gebieden, is toegestaan, mits het aantal onttrekkingsputten niet toeneemt, met dien verstande dat de vervangende onttrekkingsput binnen de Roerdalslenk boven de bovenste Brunssumklei wordt gerealiseerd en binnen de Venloschol niet dieper dan 5 meter boven NAP wordt gerealiseerd. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_4" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6692,9 +6697,9 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.4__art_4.24__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Ten minste 2 weken voorafgaand aan een wijziging als bedoeld in , en wordt een melding gedaan bij het waterschap. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_4">.</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_5">.</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_6">.</IntRef>
+                                    <Al>Ten minste 2 weken voorafgaand aan een wijziging als bedoeld in , en wordt een melding gedaan bij het waterschap. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_4" scope="Lid">.</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_5" scope="Lid">.</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_6" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6702,7 +6707,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.4__art_4.24__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>Ten minste 2 weken voorafgaand aan een wijziging als bedoeld in lid wordt een melding wordt gedaan bij het waterschap. Indien deze wijziging wordt veroorzaakt als gevolg van het defect raken van de bestaande pomp, dient direct contact opgenomen te worden met of telefonisch via 088 - 88 90 100. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_7">.</IntRef>
+                                    <Al>Ten minste 2 weken voorafgaand aan een wijziging als bedoeld in lid wordt een melding wordt gedaan bij het waterschap. Indien deze wijziging wordt veroorzaakt als gevolg van het defect raken van de bestaande pomp, dient direct contact opgenomen te worden met of telefonisch via 088 - 88 90 100. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4__art_4.23__para_7" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6802,7 +6807,7 @@
                                  <Opschrift>Aanwijzing algemene regels zonder meldplicht</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Bij het onttrekken van meer dan 10m grondwater en maximaal 12.500 m grondwater per hectare teeltoppervlak ten behoeve van beregening van bedekte teelten in de landbouw waarbij onttrokken wordt uit een bij het waterschap op 15 oktober 2015 gemelde en geregistreerde put en met een op 15 oktober 2015 bij het waterschap gemelde en geregistreerde pomp, wordt voldaan aan de artikel . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.30">Algemene regels beregening van bedekte teelten zonder meldplicht</IntRef>
+                                 <Al>Bij het onttrekken van meer dan 10m grondwater en maximaal 12.500 m grondwater per hectare teeltoppervlak ten behoeve van beregening van bedekte teelten in de landbouw waarbij onttrokken wordt uit een bij het waterschap op 15 oktober 2015 gemelde en geregistreerde put en met een op 15 oktober 2015 bij het waterschap gemelde en geregistreerde pomp, wordt voldaan aan de artikel . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.30" scope="Artikel">Algemene regels beregening van bedekte teelten zonder meldplicht</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -6814,8 +6819,8 @@
                                  <Opschrift>Aanwijzing algemene regels met meldplicht</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van beregening van bedekte teelten in de landbouw waarbij onttrokken wordt uit een nieuwe put ter vervanging van een bij het waterschap geregistreerde put of uit een nieuwe pomp ter vervanging van een bij het waterschap geregistreerde pomp, wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.31">Algemene regels beregening van bedekte teelten met meldplicht</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.32">Melding</IntRef>
+                                 <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van beregening van bedekte teelten in de landbouw waarbij onttrokken wordt uit een nieuwe put ter vervanging van een bij het waterschap geregistreerde put of uit een nieuwe pomp ter vervanging van een bij het waterschap geregistreerde pomp, wordt voldaan aan de artikelen en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.31" scope="Artikel">Algemene regels beregening van bedekte teelten met meldplicht</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.32" scope="Artikel">Melding</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -6916,8 +6921,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.5__art_4.32__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Ten minste 2 weken voorafgaand aan een wijziging als bedoeld in lid en wordt een melding gedaan bij het waterschap. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.31__para_3">.</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.31__para_4">.</IntRef>
+                                    <Al>Ten minste 2 weken voorafgaand aan een wijziging als bedoeld in lid en wordt een melding gedaan bij het waterschap. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.31__para_3" scope="Lid">.</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.31__para_4" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6925,7 +6930,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.5__art_4.32__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>Ten minste 2 weken voorafgaand aan een wijziging als bedoeld in lid wordt een melding wordt gedaan bij het waterschap. Indien deze wijziging wordt veroorzaakt als gevolg van het defect raken van de bestaande pomp, wordt direct contact opgenomen met of telefonisch via 088 – 88 90 100. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.31__para_5">.</IntRef>
+                                    <Al>Ten minste 2 weken voorafgaand aan een wijziging als bedoeld in lid wordt een melding wordt gedaan bij het waterschap. Indien deze wijziging wordt veroorzaakt als gevolg van het defect raken van de bestaande pomp, wordt direct contact opgenomen met of telefonisch via 088 – 88 90 100. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.31__para_5" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -6933,8 +6938,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.5__art_4.32__para_3">
                                  <LidNummer>3.</LidNummer>
                                  <Inhoud>
-                                    <Al>De melding als bedoeld in lid en wordt schriftelijk of digitaal gedaan met behulp van het door het bestuur vastgestelde formulier en kan rechtstreeks bij het waterschap worden gedaan (zie ). <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.32__para_1">.</IntRef>
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.32__para_2">.</IntRef>
+                                    <Al>De melding als bedoeld in lid en wordt schriftelijk of digitaal gedaan met behulp van het door het bestuur vastgestelde formulier en kan rechtstreeks bij het waterschap worden gedaan (zie ). <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.32__para_1" scope="Lid">.</IntRef>
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5__art_4.32__para_2" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7045,14 +7050,14 @@
                                  <Opschrift>Toepassingsbereik</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Deze paragraaf is van toepassing op het onttrekken van meer dan 10 m per uur grondwater ten behoeve van doeleinden die niet zijn opgenomen in de paragrafen , , , , . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2">Onttrekken t.b.v. bronbemaling of bodemsanering</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2">Onttrekken t.b.v. bronbemaling of bodemsanering</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3">Onttrekken t.b.v. grondwatersanering</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4">Onttrekken t.b.v. landbouwkundige onttrekking open teelt</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4">Onttrekken t.b.v. landbouwkundige onttrekking open teelt</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5">Onttrekken t.b.v. landbouwkundige onttrekking bedekte teelt</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.6">Onttrekken t.b.v. industriële doeleinden</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.6">Onttrekken t.b.v. industriële doeleinden</IntRef>
+                                 <Al>Deze paragraaf is van toepassing op het onttrekken van meer dan 10 m per uur grondwater ten behoeve van doeleinden die niet zijn opgenomen in de paragrafen , , , , . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2" scope="Paragraaf">Onttrekken t.b.v. bronbemaling of bodemsanering</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.2" scope="Paragraaf">Onttrekken t.b.v. bronbemaling of bodemsanering</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.3" scope="Paragraaf">Onttrekken t.b.v. grondwatersanering</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4" scope="Paragraaf">Onttrekken t.b.v. landbouwkundige onttrekking open teelt</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.4" scope="Paragraaf">Onttrekken t.b.v. landbouwkundige onttrekking open teelt</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.5" scope="Paragraaf">Onttrekken t.b.v. landbouwkundige onttrekking bedekte teelt</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.6" scope="Paragraaf">Onttrekken t.b.v. industriële doeleinden</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.1__subsec_4.1.6" scope="Paragraaf">Onttrekken t.b.v. industriële doeleinden</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -7098,8 +7103,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.7__art_4.39__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur niet dieper dan 5 meter beneden NAP binnen het gebied van de Venloschol ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40">Algemene regels overige doeleinden</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41">Algemene regels sportveldberegening</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur niet dieper dan 5 meter beneden NAP binnen het gebied van de Venloschol ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40" scope="Artikel">Algemene regels overige doeleinden</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41" scope="Artikel">Algemene regels sportveldberegening</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7107,8 +7112,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.7__art_4.39__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur niet dieper dan 20 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk I ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40">Algemene regels overige doeleinden</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41">Algemene regels sportveldberegening</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur niet dieper dan 20 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk I ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40" scope="Artikel">Algemene regels overige doeleinden</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41" scope="Artikel">Algemene regels sportveldberegening</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7116,8 +7121,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.7__art_4.39__para_3">
                                  <LidNummer>3.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur niet dieper dan 30 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk II ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40">Algemene regels overige doeleinden</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41">Algemene regels sportveldberegening</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur niet dieper dan 30 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk II ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40" scope="Artikel">Algemene regels overige doeleinden</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41" scope="Artikel">Algemene regels sportveldberegening</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7125,8 +7130,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.7__art_4.39__para_4">
                                  <LidNummer>4.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur niet dieper dan 80 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk III ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40">Algemene regels overige doeleinden</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41">Algemene regels sportveldberegening</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur niet dieper dan 80 meter beneden maaiveld binnen het gebied van boringsvrije zone Roerdalslenk III ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40" scope="Artikel">Algemene regels overige doeleinden</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41" scope="Artikel">Algemene regels sportveldberegening</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7134,8 +7139,8 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.7__art_4.39__para_5">
                                  <LidNummer>5.</LidNummer>
                                  <Inhoud>
-                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur buiten het gebied van boringsvrije zone Roerdalslenk IV en buiten een bufferzone verdroogde natuurgebieden ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40">Algemene regels overige doeleinden</IntRef> 
-                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41">Algemene regels sportveldberegening</IntRef>
+                                    <Al>Bij het onttrekken van meer dan 10 m en maximaal 60 m grondwater per uur buiten het gebied van boringsvrije zone Roerdalslenk IV en buiten een bufferzone verdroogde natuurgebieden ten behoeve van overige doeleinden met uitzondering van bluswater wordt voldaan aan ,. en . <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.40" scope="Artikel">Algemene regels overige doeleinden</IntRef> 
+                                       <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.41" scope="Artikel">Algemene regels sportveldberegening</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7198,7 +7203,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.7__art_4.42__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Het is verboden de activiteit, bedoeld in artikel , te verrichten zonder dit ten minste vier weken voor het begin ervan te melden. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.39">Aanwijzing algemene regels</IntRef> 
+                                    <Al>Het is verboden de activiteit, bedoeld in artikel , te verrichten zonder dit ten minste vier weken voor het begin ervan te melden. <IntRef ref="chp_4__subchp_4.1__subsec_4.1.7__art_4.39" scope="Artikel">Aanwijzing algemene regels</IntRef> 
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7326,10 +7331,10 @@
                                  <Opschrift>Aanwijzing algemene regels </Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van het draineren van gronden waarbij landbouwpercelen worden gedraineerd via een systeem van peilgestuurde drainage of landbouwpercelen wilt draineren die gelegen zijn binnen het drainagegebied 'midden', wordt voldaan aan artikel , , en <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.47">Algemene regels verplichting peilgestuurde drainage</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.48">Algemene regels draineren</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.49">Algemene regels lozingsvoorziening</IntRef>
-                                    <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.50">Melding</IntRef>
+                                 <Al>Bij het onttrekken van meer dan 10 m grondwater ten behoeve van het draineren van gronden waarbij landbouwpercelen worden gedraineerd via een systeem van peilgestuurde drainage of landbouwpercelen wilt draineren die gelegen zijn binnen het drainagegebied 'midden', wordt voldaan aan artikel , , en <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.47" scope="Artikel">Algemene regels verplichting peilgestuurde drainage</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.48" scope="Artikel">Algemene regels draineren</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.49" scope="Artikel">Algemene regels lozingsvoorziening</IntRef>
+                                    <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.50" scope="Artikel">Melding</IntRef>
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -7351,7 +7356,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.2__subsec_4.2.1__art_4.47__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>De verplichting bedoeld in lid geldt tot 1 april 2029 niet in het gebied midden zoals geduid op kaart Peilgestuurde drainage <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.47__para_1">.</IntRef>
+                                    <Al>De verplichting bedoeld in lid geldt tot 1 april 2029 niet in het gebied midden zoals geduid op kaart Peilgestuurde drainage <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.47__para_1" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7374,7 +7379,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.2__subsec_4.2.1__art_4.48__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>In afwijking van lid , kan het overlooppeil worden bijgesteld: <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.48__para_1">.</IntRef>
+                                    <Al>In afwijking van lid , kan het overlooppeil worden bijgesteld: <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.48__para_1" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7426,7 +7431,7 @@
                                    wId="ws0665_1__chp_4__subchp_4.2__subsec_4.2.1__art_4.50__para_1">
                                  <LidNummer>1.</LidNummer>
                                  <Inhoud>
-                                    <Al>Het is verboden de activiteit, bedoeld in artikel , te verrichten zonder dit ten minste vier weken voor het begin ervan te melden. <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.46">Aanwijzing algemene regels</IntRef> 
+                                    <Al>Het is verboden de activiteit, bedoeld in artikel , te verrichten zonder dit ten minste vier weken voor het begin ervan te melden. <IntRef ref="chp_4__subchp_4.2__subsec_4.2.1__art_4.46" scope="Artikel">Aanwijzing algemene regels</IntRef> 
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7609,7 +7614,7 @@
                                    wId="ws0665_1__chp_6__subchp_6.1__subsec_6.1.1__art_6.2__para_2">
                                  <LidNummer>2.</LidNummer>
                                  <Inhoud>
-                                    <Al>Het bepaalde in geldt ook voor projecten en plannen waarvoor door het waterschap voor inwerkingtreding van deen wateradvies in het kader van een ruimtelijke ontwikkeling is verstrekt, een advies is afgegeven in het kader van een Gemeentelijk Rioleringsplan, dan wel anderszins afspraken zijn vastgelegd ter zake het lozen van hemelwater afkomstig van verharde oppervlakken. <IntRef ref="chp_6__subchp_6.1__subsec_6.1.1__art_6.2__para_1">.</IntRef>
+                                    <Al>Het bepaalde in geldt ook voor projecten en plannen waarvoor door het waterschap voor inwerkingtreding van deen wateradvies in het kader van een ruimtelijke ontwikkeling is verstrekt, een advies is afgegeven in het kader van een Gemeentelijk Rioleringsplan, dan wel anderszins afspraken zijn vastgelegd ter zake het lozen van hemelwater afkomstig van verharde oppervlakken. <IntRef ref="chp_6__subchp_6.1__subsec_6.1.1__art_6.2__para_1" scope="Lid">.</IntRef>
                                     </Al>
                                  </Inhoud>
                               </Lid>
@@ -7622,9 +7627,9 @@
                                  <Opschrift>Werkingsgebied overige waterkeringen, met daarin gelegen waterkerende kunstwerken</Opschrift>
                               </Kop>
                               <Inhoud>
-                                 <Al>Voor overige waterkeringen, met de daarin gelegen waterkerende kunstwerken, als bedoeld in , waarvoor krachtens en de provinciale Waterverordening vaststelling van een Legger is voorgeschreven maar waarvoor vaststelling nog niet heeft plaatsgevonden, worden de ligging en indien mogelijk vorm, afmetingen en constructie van de betrokken waterstaatswerken aangegeven op de bij deze waterschapsverordening behorende zonering . <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.17">Gewoon onderhoud aan waterkeringen</IntRef> 
-                                    <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.17">Gewoon onderhoud aan waterkeringen</IntRef> 
-                                    <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.17">Gewoon onderhoud aan waterkeringen</IntRef> 
+                                 <Al>Voor overige waterkeringen, met de daarin gelegen waterkerende kunstwerken, als bedoeld in , waarvoor krachtens en de provinciale Waterverordening vaststelling van een Legger is voorgeschreven maar waarvoor vaststelling nog niet heeft plaatsgevonden, worden de ligging en indien mogelijk vorm, afmetingen en constructie van de betrokken waterstaatswerken aangegeven op de bij deze waterschapsverordening behorende zonering . <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.17" scope="Artikel">Gewoon onderhoud aan waterkeringen</IntRef> 
+                                    <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.17" scope="Artikel">Gewoon onderhoud aan waterkeringen</IntRef> 
+                                    <IntRef ref="chp_1__subchp_1.4__subsec_1.4.2__art_1.17" scope="Artikel">Gewoon onderhoud aan waterkeringen</IntRef> 
                                  </Al>
                               </Inhoud>
                            </Artikel>
@@ -7677,7 +7682,7 @@
                   </Kop>
                   <Divisietekst eId="cmp_I__content_o_1" wId="ws0665_1__cmp_I__content_o_1"><!-- lege kop tbv validatie imop-tekst.sch -->
                      <Kop>
-                        <Opschrift/>
+                        <Opschrift> </Opschrift>
                      </Kop>
                      <Inhoud>
                         <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
@@ -10502,7 +10507,9 @@
       <RegelingMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <eindverantwoordelijke>/tooi/id/waterschap/ws0665</eindverantwoordelijke>
          <maker>/tooi/id/waterschap/ws0665</maker>
-         <officieleTitel>Waterschapsverordening Limburg Proef 1</officieleTitel>
+         <!--soortBestuursorgaan is 'algemeen bestuur'.-->
+         <soortBestuursorgaan>/tooi/def/thes/kern/c_70c87e3d</soortBestuursorgaan>
+         <officieleTitel>Waterschapsverordening Limburg</officieleTitel>
          <onderwerpen>
             <onderwerp>/tooi/def/concept/c_a71dc533</onderwerp>
          </onderwerpen>

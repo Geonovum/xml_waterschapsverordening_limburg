@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--Voor validatie is het noodzakelijk om ook de catalogi van de gepubliceerde versie 1.0.4 te laden.-->
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
-                             schemaversie="1.0.3">
+                             xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                             schemaversie="1.0.4"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml05</FRBRWork>
@@ -13,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>WaterschapsverordeningLocaties05.gml</bestandsnaam>
-                  <hash>9b2b4e1b6d4eaab693a371241ad497b4d50bfdc6d70d0b2a268051268a8f311d54d6c15a2b4e3f9303b5f31e313e65e839185eebc058fdcc4e41945c5f9e4886</hash>
+                  <hash>0580b4e20fb5cdb73c16b475d68bb0076d48ca3deb7d27fd2ad4116768747ff96428daaeaed5c563ce0c68cb29ce8a8f8ed6b7b94f2b832a01a5d7d0a78c5cb0</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

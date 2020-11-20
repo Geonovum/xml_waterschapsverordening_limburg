@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0" xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ ../stop/imop-geo.xsd" schemaversie="1.0.3">
+<?xml version="1.0" encoding="utf-8"?>
+<geo:GeoInformatieObjectVaststelling xmlns:basisgeo="http://www.geostandaarden.nl/basisgeometrie/1.0"
+                                     xmlns:gio="https://standaarden.overheid.nl/stop/imop/gio/"
+                                     xmlns:gml="http://www.opengis.net/gml/3.2"
+                                     xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
+                                     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                     xsi:schemaLocation="https://standaarden.overheid.nl/stop/imop/geo/ https://standaarden.overheid.nl/stop/1.0.4/imop-geo.xsd"
+                                     schemaversie="1.0.4">
    <geo:context>
       <gio:GeografischeContext>
          <gio:achtergrondVerwijzing>top10nl</gio:achtergrondVerwijzing>
@@ -15,7 +22,9 @@
                   <basisgeo:Geometrie gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A07-xx">
                      <basisgeo:id>13B34F36-1C71-4993-BF08-D33122DB2A07</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A07-0" srsName="EPSG:28992" srsDimension="2">
+                        <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A07-0"
+                                          srsName="EPSG:28992"
+                                          srsDimension="2">
                            <gml:surfaceMember>
                               <gml:Surface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A07-1">
                                  <gml:patches>
@@ -1330,7 +1339,9 @@
                   <basisgeo:Geometrie gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A08-xx">
                      <basisgeo:id>13B34F36-1C71-4993-BF08-D33122DB2A08</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A08-0" srsName="EPSG:28992" srsDimension="2">
+                        <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A08-0"
+                                          srsName="EPSG:28992"
+                                          srsDimension="2">
                            <gml:surfaceMember>
                               <gml:Surface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A08-1">
                                  <gml:patches>
@@ -3647,7 +3658,9 @@
                   <basisgeo:Geometrie gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A09-xx">
                      <basisgeo:id>13B34F36-1C71-4993-BF08-D33122DB2A09</basisgeo:id>
                      <basisgeo:geometrie>
-                        <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A09-0" srsName="EPSG:28992" srsDimension="2">
+                        <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A09-0"
+                                          srsName="EPSG:28992"
+                                          srsDimension="2">
                            <gml:surfaceMember>
                               <gml:Surface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A09-1">
                                  <gml:patches>

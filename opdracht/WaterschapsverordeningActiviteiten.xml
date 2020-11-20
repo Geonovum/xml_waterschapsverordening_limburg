@@ -12,7 +12,7 @@
                  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.2/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Waterschapsverordening Limburg, Proef 1</sl:dataset>
       <sl:inhoud>
@@ -22,7 +22,7 @@
             <sl:objectType>Activiteit</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
-<!--      <!-\- De bovenliggende activiteit is momenteel ingesteld op de PRE-omgeving. De volgende activiteit op de PRE-omgeving uitcommentariëren en niet weggooien. -\->
+      <!--      <!-\- De bovenliggende activiteit is momenteel ingesteld op de PRE-omgeving. De volgende activiteit op de PRE-omgeving uitcommentariëren en niet weggooien. -\->
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
