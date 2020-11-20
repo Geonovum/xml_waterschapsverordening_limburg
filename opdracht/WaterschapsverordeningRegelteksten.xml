@@ -42,7 +42,7 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
                </r:locatieaanduiding>
-               <r:activiteitaanduiding>
+<!--               <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.OOWAWV1Aansluiting"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art1000001</r:identificatie>
@@ -51,7 +51,7 @@
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
+               </r:activiteitaanduiding>-->
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
