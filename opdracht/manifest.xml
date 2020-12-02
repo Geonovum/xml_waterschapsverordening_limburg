@@ -106,10 +106,6 @@
 		<lvbb:bestandsnaam>WaterschapsverordeningLocaties42_nieuw.gml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/gml+xml</lvbb:contentType>
 	</lvbb:bestand>
-	<lvbb:bestand>
-		<lvbb:bestandsnaam>Regelingsgebied.gml</lvbb:bestandsnaam>
-		<lvbb:contentType>application/gml+xml</lvbb:contentType>
-	</lvbb:bestand>
 	<!-- GIO's -->
 	<lvbb:bestand>
 		<lvbb:bestandsnaam>GIO-00.xml</lvbb:bestandsnaam>
