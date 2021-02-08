@@ -503,7 +503,7 @@
       <!-- 2.10 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.10">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.10__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.art34</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -535,7 +535,7 @@
       <!-- 2.11 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.11">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.11__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.art35</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -557,7 +557,7 @@
       <!-- 2.12 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.12">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.2__art_2.12__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.art36</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -744,7 +744,7 @@
       <!-- 2.19 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.4__art_2.19">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.4__art_2.19__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.art43</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -812,7 +812,7 @@
       <!-- 2.21 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.4__art_2.21">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.4__art_2.21__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.art45</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -2748,7 +2748,7 @@
       <!-- 2.69 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.13__art_2.69">
+            <r:Regeltekst wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.13__art_2.69__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.art93</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
