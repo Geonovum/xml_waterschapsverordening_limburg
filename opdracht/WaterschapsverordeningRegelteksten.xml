@@ -42,8 +42,8 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
                </r:locatieaanduiding>
-               <!--               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.OOWAWV1Aansluiting"/>
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                   <r:ActiviteitLocatieaanduiding>
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art1000001</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
@@ -51,7 +51,7 @@
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>-->
+               </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>

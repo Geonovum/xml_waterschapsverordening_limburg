@@ -26,7 +26,7 @@
       <sl:stand>
          <ow-dc:owObject>
             <rol:Activiteit>
-               <rol:identificatie>nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg</rol:identificatie>
+               <rol:identificatie>nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg</rol:identificatie>
                <rol:naam>Activiteit gereguleerd in waterschapsverordening Limburg</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Overig</rol:groep>
                <rol:bovenliggendeActiviteit>
@@ -42,7 +42,7 @@
                <rol:naam>beperkingengebiedactiviteit waterstaatswerk</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wateronttrekkingsactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -54,7 +54,7 @@
                <rol:naam>wateronttrekingsactiviteit oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wateronttrekkingsactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -66,7 +66,7 @@
                <rol:naam>Lozen in een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Lozingsactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -78,7 +78,7 @@
                <rol:naam>Onttrekken uit een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wateronttrekkingsactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -92,7 +92,7 @@
                <rol:naam>Duikers en overkluizingen in een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -104,7 +104,7 @@
                <rol:naam>Bruggen in of over een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -116,7 +116,7 @@
                <rol:naam>Bouwwerken langs een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -128,7 +128,7 @@
                <rol:naam>Kabels en leidingen in, onder of langs een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -140,7 +140,7 @@
                <rol:naam>Recreatief medegebruik in of nabij een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -152,7 +152,7 @@
                <rol:naam>Beplanting langs een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -164,7 +164,7 @@
                <rol:naam>Kleine bouwwerken langs een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -176,7 +176,7 @@
                <rol:naam>Afrasteringen, hekwerken en schuttingen langs een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -188,7 +188,7 @@
                <rol:naam>Lozen van hemelwater afkomstig van een verhard oppervlak in een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Lozingsactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -200,7 +200,7 @@
                <rol:naam>Realisering projecten bij een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -212,7 +212,7 @@
                <rol:naam>Evenement in of bij een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -224,7 +224,7 @@
                <rol:naam>Uitvoeren van werken en werkzaamheden binnen een lijnvormig element</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -236,7 +236,7 @@
                <rol:naam>Stuwen en andere peilregulerende werken in een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -248,7 +248,7 @@
                <rol:naam>Woonboten in een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -260,7 +260,7 @@
                <rol:naam>Verleggen of aanpassen van een oppervlaktewater</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -272,7 +272,7 @@
                <rol:naam>Bouwwerken</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
@@ -284,7 +284,7 @@
                <rol:naam>Verwijderen van een bouwwerk</rol:naam>
                <rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
                <rol:bovenliggendeActiviteit>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0659.activiteit.ActInWaterschapsvLimburg"/>
+                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
                </rol:bovenliggendeActiviteit>
             </rol:Activiteit>
          </ow-dc:owObject>
