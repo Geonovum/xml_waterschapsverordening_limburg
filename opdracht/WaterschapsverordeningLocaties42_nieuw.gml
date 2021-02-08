@@ -23,7 +23,7 @@
                      <basisgeo:id>13B34F36-1C71-4993-BF08-D33122DB2A07</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A07-0"
-                                          srsName="EPSG:28992"
+                                          srsName="urn:ogc:def:crs:EPSG::28992"
                                           srsDimension="2">
                            <gml:surfaceMember>
                               <gml:Surface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A07-1">
@@ -1340,7 +1340,7 @@
                      <basisgeo:id>13B34F36-1C71-4993-BF08-D33122DB2A08</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A08-0"
-                                          srsName="EPSG:28992"
+                                          srsName="urn:ogc:def:crs:EPSG::28992"
                                           srsDimension="2">
                            <gml:surfaceMember>
                               <gml:Surface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A08-1">
@@ -3659,7 +3659,7 @@
                      <basisgeo:id>13B34F36-1C71-4993-BF08-D33122DB2A09</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A09-0"
-                                          srsName="EPSG:28992"
+                                          srsName="urn:ogc:def:crs:EPSG::28992"
                                           srsDimension="2">
                            <gml:surfaceMember>
                               <gml:Surface gml:id="id-13B34F36-1C71-4993-BF08-D33122DB2A09-1">

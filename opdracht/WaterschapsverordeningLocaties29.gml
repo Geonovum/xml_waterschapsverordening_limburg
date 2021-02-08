@@ -23,7 +23,7 @@
                      <basisgeo:id>761B517A-3AAE-470A-B078-655C3DB6442F</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:Surface gml:id="id-761B517A-3AAE-470A-B078-655C3DB6442F-0"
-                                     srsName="EPSG:28992"
+                                     srsName="urn:ogc:def:crs:EPSG::28992"
                                      srsDimension="2">
                            <gml:patches>
                               <gml:PolygonPatch interpolation="planar">
