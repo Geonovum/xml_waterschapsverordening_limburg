@@ -6,8 +6,8 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/ws0665/2019/wvl</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/ws0665/2019/wvl/nld@2019-01-04;2</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/ws0665/2021/wvl</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/ws0665/2021/wvl/nld@2021-03-04;2</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -59,7 +59,7 @@
                <doelen>
                   <doel>/join/id/proces/ws0665/2019/Instelling</doel>
                </doelen>
-               <instrumentVersie>/akn/nl/act/ws0665/2019/wvl/nld@2019-10-01;2</instrumentVersie>
+               <instrumentVersie>/akn/nl/act/ws0665/2019/wvl-20190906-1643/nld@2019-10-01;2</instrumentVersie>
                <eId>art_I</eId>
             </BeoogdeRegeling>
             <!-- Hier GIO's toevoegen -->
@@ -233,7 +233,7 @@
                <Nummer>I</Nummer>
             </Kop>
             <RegelingCompact componentnaam="initieel_reg"
-                             wordt="/akn/nl/act/ws0665/2019/wvl/nld@2019-10-01;2">
+                             wordt="/akn/nl/act/ws0665/2019/wvl-20190906-1643/nld@2019-10-01;2">
                <RegelingOpschrift eId="longTitle" wId="longTitle">
                   <Al>Waterschapsverordening Limburg</Al>
                </RegelingOpschrift>
@@ -10485,8 +10485,8 @@
    </BesluitVersie>
    <RegelingVersieInformatie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/act/ws0665/2019/wvl</FRBRWork>
-         <FRBRExpression>/akn/nl/act/ws0665/2019/wvl/nld@2019-10-01;2</FRBRExpression>
+         <FRBRWork>/akn/nl/act/ws0665/2019/wvl-20190906-1643</FRBRWork>
+         <FRBRExpression>/akn/nl/act/ws0665/2019/wvl-20190906-1643/nld@2019-10-01;2</FRBRExpression>
          <soortWork>/join/id/stop/work_019</soortWork>
       </ExpressionIdentificatie>
       <RegelingVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">

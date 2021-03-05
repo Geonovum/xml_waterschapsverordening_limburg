@@ -12,7 +12,7 @@
          <soortWork>/join/id/stop/work_010</soortWork>
       </ExpressionIdentificatie>
       <InformatieObjectVersieMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <heeftGeboorteregeling>/akn/nl/act/ws0665/2019/wvl-20190906-1643</heeftGeboorteregeling>
+         <heeftGeboorteregeling>/akn/nl/act/ws0665/2019/wvl</heeftGeboorteregeling>
          <heeftBestanden>
             <heeftBestand>
                <Bestand>
