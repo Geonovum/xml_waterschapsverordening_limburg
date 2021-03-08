@@ -29,10 +29,10 @@
                <l:identificatie>nl.imow-ws0665.gebiedengroep.brunssumklei</l:identificatie>
                <l:noemer>Roerdalslenk Brunssumklei</l:noemer>
                <l:groepselement>
-                  <l:GebiedRef xlink:href=""/>
-                  <l:GebiedRef xlink:href=""/>
-                  <l:GebiedRef xlink:href=""/>
-                  <l:GebiedRef xlink:href=""/>
+                  <l:GebiedRef xlink:href="nl.imow-ws0665.gebied.brunssumkleiI"/>
+                  <l:GebiedRef xlink:href="nl.imow-ws0665.gebied.brunssumkleiII"/>
+                  <l:GebiedRef xlink:href="nl.imow-ws0665.gebied.brunssumkleiIII"/>
+                  <l:GebiedRef xlink:href="nl.imow-ws0665.gebied.brunssumkleiIV"/>
                </l:groepselement>
             </l:Gebiedengroep>
          </ow-dc:owObject>
@@ -43,7 +43,7 @@
                <l:identificatie>nl.imow-ws0665.gebied.brunssumkleiI</l:identificatie>
                <l:noemer>boringsvrije zone Roerdalslenk I (Bovenste Brunssumklei)</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href=""/>
+                  <l:GeometrieRef xlink:href="3B74115A-3E50-4013-85AD-E6AB93E6D05E"/>
                </l:geometrie>
             </l:Gebied>
         </ow-dc:owObject>
@@ -54,7 +54,7 @@
                <l:identificatie>nl.imow-ws0665.gebied.brunssumkleiII</l:identificatie>
                <l:noemer>boringsvrije zone Roerdalslenk II (Bovenste Brunssumklei)</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href=""/>
+                  <l:GeometrieRef xlink:href="45256398-E5BD-4618-AD44-59ECB6C5D0D8"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -65,7 +65,7 @@
                <l:identificatie>nl.imow-ws0665.gebied.brunssumkleiIII</l:identificatie>
                <l:noemer>boringsvrije zone Roerdalslenk III (Bovenste Brunssumklei)</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href=""/>
+                  <l:GeometrieRef xlink:href="25DF1127-4FD4-4D44-9ECD-EBBBCA752EFC"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>
@@ -76,7 +76,7 @@
                <l:identificatie>nl.imow-ws0665.gebied.brunssumkleiIV</l:identificatie>
                <l:noemer>boringsvrije zone Roerdalslenk IV (Bovenste Brunssumklei)</l:noemer>
                <l:geometrie>
-                  <l:GeometrieRef xlink:href=""/>
+                  <l:GeometrieRef xlink:href="47582ADF-989D-4018-A2E5-542CC332196A"/>
                </l:geometrie>
             </l:Gebied>
          </ow-dc:owObject>

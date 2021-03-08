@@ -132,6 +132,7 @@
                </geo:geometrie>
             </geo:Locatie>
             <geo:Locatie>
+               <geo:naam>Roerdalslenk IV</geo:naam>
                <geo:geometrie>
                   <basisgeo:Geometrie gml:id="id-47582ADF-989D-4018-A2E5-542CC332196A">
                      <basisgeo:id>47582ADF-989D-4018-A2E5-542CC332196A</basisgeo:id>
