@@ -28,4 +28,12 @@
 		<lvbb:bestandsnaam>WaterschapsverordeningLocatiegroepen.xml</lvbb:bestandsnaam>
 		<lvbb:contentType>application/xml</lvbb:contentType>
 	</lvbb:bestand>
+	<bestand>
+		<bestandsnaam>GIO-Roerdalslenk.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>Roerdalslenk.gml</bestandsnaam>
+		<contentType>application/gml+xml</contentType>
+	</bestand>
 </lvbb:manifest>

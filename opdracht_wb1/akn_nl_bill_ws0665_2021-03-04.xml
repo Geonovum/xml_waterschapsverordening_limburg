@@ -50,8 +50,8 @@
                <doelen>
                   <doel>/join/id/proces/ws0665/2021/wijzigingsbesluit1</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05</instrumentVersie> <!--TODO juiste GIO-->
-               <eId>!wijz_bes#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId> <!--TODO juiste Ref-->
+               <instrumentVersie>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05</instrumentVersie>
+               <eId>!wijz_bes#cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1</eId> 
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
