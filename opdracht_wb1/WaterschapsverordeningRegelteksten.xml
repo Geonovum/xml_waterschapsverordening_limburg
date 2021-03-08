@@ -48,7 +48,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.wijzigingsbesluit1v1</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.brunssumkleiI"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkI"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -58,7 +58,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.wijzigingsbesluit1v2</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.brunssumkleiII"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkII"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -68,7 +68,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.wijzigingsbesluit1v3</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.brunssumkleiIII"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIII"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
@@ -78,7 +78,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.wijzigingsbesluit1v4</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.brunssumkleiIV"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIV"/>
                         </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>

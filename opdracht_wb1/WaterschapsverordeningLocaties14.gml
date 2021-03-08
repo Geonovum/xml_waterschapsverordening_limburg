@@ -16,6 +16,24 @@
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk</geo:FRBRWork>
          <geo:FRBRExpression>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05</geo:FRBRExpression>
+         <geo:groepen>
+            <geo:Groep>
+               <geo:groepID>RoerdalslenkI</geo:groepID>
+               <geo:label>Roerdalslenk I</geo:label>
+            </geo:Groep>
+            <geo:Groep>
+               <geo:groepID>RoerdalslenkII</geo:groepID>
+               <geo:label>Roerdalslenk II</geo:label>
+            </geo:Groep>
+            <geo:Groep>
+               <geo:groepID>RoerdalslenkIII</geo:groepID>
+               <geo:label>Roerdalslenk III</geo:label>
+            </geo:Groep>
+            <geo:Groep>
+               <geo:groepID>RoerdalslenkIV</geo:groepID>
+               <geo:label>Roerdalslenk IV</geo:label>
+            </geo:Groep>
+         </geo:groepen>
          <geo:locaties>
             <geo:Locatie>
                <geo:naam>Roerdalslenk I</geo:naam>
@@ -33,6 +51,7 @@
                      </basisgeo:geometrie>
                   </basisgeo:Geometrie>
                </geo:geometrie>
+               <geo:groepID>RoerdalslenkI</geo:groepID>
             </geo:Locatie>
             <geo:Locatie>
                <geo:naam>Roerdalslenk II</geo:naam>
@@ -65,6 +84,7 @@
                      </basisgeo:geometrie>
                   </basisgeo:Geometrie>
                </geo:geometrie>
+               <geo:groepID>RoerdalslenkII</geo:groepID>
             </geo:Locatie>
             <geo:Locatie>
                <geo:naam>Roerdalslenk III</geo:naam>
@@ -82,6 +102,7 @@
                      </basisgeo:geometrie>
                   </basisgeo:Geometrie>
                </geo:geometrie>
+               <geo:groepID>RoerdalslenkIII</geo:groepID>
             </geo:Locatie>
             <geo:Locatie>
                <geo:naam>Roerdalslenk IV</geo:naam>
@@ -99,6 +120,7 @@
                      </basisgeo:geometrie>
                   </basisgeo:Geometrie>
                </geo:geometrie>
+               <geo:groepID>RoerdalslenkIV</geo:groepID>
             </geo:Locatie>
          </geo:locaties>
       </geo:GeoInformatieObjectVersie>
