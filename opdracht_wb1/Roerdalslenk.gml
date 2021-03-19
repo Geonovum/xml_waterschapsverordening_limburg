@@ -60,8 +60,7 @@
                      <basisgeo:id>45256398-E5BD-4618-AD44-59ECB6C5D0D8</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:MultiSurface gml:id="id-45256398-E5BD-4618-AD44-59ECB6C5D0D8-0"
-                           srsName="urn:ogc:def:crs:EPSG::28992"
-                                          srsDimension="2">
+                           srsName="urn:ogc:def:crs:EPSG::28992">
                            <gml:surfaceMember>
                               <gml:Polygon>
                                  <gml:exterior>
@@ -89,7 +88,7 @@
             <geo:Locatie>
                <geo:naam>Roerdalslenk III</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-25DF1127-4FD4-4D44-9ECD-EBBBCA752EFC" srsName="urn:ogc:def:crs:EPSG::28992">
+                  <basisgeo:Geometrie gml:id="id-25DF1127-4FD4-4D44-9ECD-EBBBCA752EFC">
                      <basisgeo:id>25DF1127-4FD4-4D44-9ECD-EBBBCA752EFC</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:Polygon gml:id="id-25DF1127-4FD4-4D44-9ECD-EBBBCA752EFC-0" srsName="urn:ogc:def:crs:EPSG::28992">
@@ -107,7 +106,7 @@
             <geo:Locatie>
                <geo:naam>Roerdalslenk IV</geo:naam>
                <geo:geometrie>
-                  <basisgeo:Geometrie gml:id="id-47582ADF-989D-4018-A2E5-542CC332196A" srsName="urn:ogc:def:crs:EPSG::28992">
+                  <basisgeo:Geometrie gml:id="id-47582ADF-989D-4018-A2E5-542CC332196A">
                      <basisgeo:id>47582ADF-989D-4018-A2E5-542CC332196A</basisgeo:id>
                      <basisgeo:geometrie>
                         <gml:Polygon gml:id="id-47582ADF-989D-4018-A2E5-542CC332196A-0" srsName="urn:ogc:def:crs:EPSG::28992">
