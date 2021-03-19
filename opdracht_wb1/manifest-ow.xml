@@ -19,6 +19,7 @@
          <naam>WaterschapsverordeningLocatiegroepen.xml</naam>
          <objecttype>Gebied</objecttype>
          <objecttype>Gebiedengroep</objecttype>
+         <objecttype>Ambtsgebied</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>
