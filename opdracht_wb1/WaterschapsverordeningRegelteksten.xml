@@ -36,7 +36,7 @@
                <r:identificatie>nl.imow-ws0665.juridischeregel.artikel4punt3lid1</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.lid225"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3lid1"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.Roerdalslenk"/>
