@@ -98,6 +98,8 @@
             </Kop>
             <RegelingMutatie componentnaam="wijz_bes" was="/akn/nl/act/ws0665/2019/wvl/nld@2021-03-05;2" wordt="/akn/nl/act/ws0665/2019/wvl/nld@2021-05-15;3">
                <VoegToe positie="volgtOp" context="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3">
+                  <Nummer>wb2_1</Nummer>
+                  <Wat>Artikel 4.3 wordt toegevoegd met een norm.</Wat>
                   <Artikel wId="ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3a" eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.3">
                      <Kop>
                         <Label>Artikel</Label>
@@ -105,13 +107,13 @@
                         <Opschrift>Maximale graafdiepte</Opschrift>
                      </Kop>
                      <Inhoud>
-                        <Al>de maximale graafdiepte is zoals bepaald in de norm ‘Roerdalslenk-gebieden graafdiepte’.</Al> <!--TODO-IntIoRef met Norm-->
+                        <Al>de maximale graafdiepte is zoals bepaald in de norm <IntIoRef eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.3a__ref_o_1" wId="ws0665_2__chp_4__subchp_4.1__subsec_4.1.1__art_4.3a__ref_o_1" ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1">Roerdalslenk-gebieden graafdiepte</IntIoRef>.</Al>
                      </Inhoud>
                   </Artikel>
                </VoegToe>
                <Vervang wat="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3">
-                  <Nummer>wb1_1</Nummer>
-                  <Wat>Artikel 4.3 wordt voorzien van GIO-verwijzingen</Wat>
+                  <Nummer>wb2_2</Nummer>
+                  <Wat>Artikel 4.3 wordt voorzien van een nieuw lid.</Wat>
                   <Artikel eId="chp_4__subchp_4.1__subsec_4.1.1__art_4.3"
                      wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3">
                      <Kop>
@@ -351,6 +353,14 @@
                                        <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                           wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                           ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml11/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml11/nld@2019-01-04</ExtIoRef>
+                                    </Al>
+                                 </Definitie>
+                              </Begrip>
+                              <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_20" wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_20">
+                                 <Term>Roerdalslenk-gebieden graafdiepte</Term>
+                                 <Definitie>
+                                    <Al>
+                                       <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1" wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_20__ref_o_1" ref="/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk_graafdiepte/nld@2021-03-05">/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk_graafdiepte/nld@2021-03-05</ExtIoRef>
                                     </Al>
                                  </Definitie>
                               </Begrip>

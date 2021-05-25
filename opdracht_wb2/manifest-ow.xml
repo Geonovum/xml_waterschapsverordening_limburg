@@ -7,10 +7,6 @@
       <WorkIDRegeling>/akn/nl/act/ws0665/2019/wvl</WorkIDRegeling>
       <DoelID>/join/id/proces/ws0665/2021/wijzigingsbesluit2</DoelID>
       <Bestand>
-         <naam>WaterschapsverordeningActiviteiten.xml</naam>
-         <objecttype>Activiteit</objecttype>
-      </Bestand>
-      <Bestand>
          <naam>WaterschapsverordeningRegelteksten.xml</naam>
          <objecttype>Regeltekst</objecttype>
          <objecttype>RegelVoorIedereen</objecttype>
@@ -18,8 +14,10 @@
       <Bestand>
          <naam>WaterschapsverordeningLocatiegroepen.xml</naam>
          <objecttype>Gebied</objecttype>
-         <objecttype>Gebiedengroep</objecttype>
-         <objecttype>Ambtsgebied</objecttype>
+      </Bestand>
+      <Bestand>
+         <naam>WaterschapsverordeningSymbolisatieItems.xml</naam>
+         <objecttype>SymbolisatieItem</objecttype>
       </Bestand>
    </Aanlevering>
 </Aanleveringen>

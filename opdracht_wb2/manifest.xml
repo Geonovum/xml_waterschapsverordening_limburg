@@ -5,7 +5,7 @@
 		<contentType>application/xml</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>akn_nl_bill_ws0665_2021-03-04.xml</bestandsnaam>
+		<bestandsnaam>akn_nl_bill_ws0665_2021-05-15.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
 	<bestand>
@@ -17,10 +17,6 @@
 		<contentType>application/xml</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>WaterschapsverordeningActiviteiten.xml</bestandsnaam>
-		<contentType>application/xml</contentType>
-	</bestand>
-	<bestand>
 		<bestandsnaam>WaterschapsverordeningRegelteksten.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
@@ -29,11 +25,23 @@
 		<contentType>application/xml</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>GIO-Roerdalslenk.xml</bestandsnaam>
+		<bestandsnaam>GIO-Roerdalslenkgraafdiepte.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
 	<bestand>
-		<bestandsnaam>Roerdalslenk.gml</bestandsnaam>
+		<bestandsnaam>Roerdalslenkgraafdiepte.gml</bestandsnaam>
 		<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>GIO-02.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>WaterschapsverordeningLocaties02_nieuw.gml</bestandsnaam>
+		<contentType>application/gml+xml</contentType>
+	</bestand>
+	<bestand>
+		<bestandsnaam>WaterschapsverordeningSymbolisatieItems.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
 	</bestand>
 </manifest>
