@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Waterschapsverordening Limburg</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Gebiedengroepen</sl:gebied>
+         <sl:leveringsId>abc-2019612-1</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Gebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <l:identificatie>nl.imow-ws0665.gebiedengroep.Roerdalslenk</l:identificatie>
+               <l:noemer>Roerdalslenk Brunssumklei</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkI"/>
+                  <l:GebiedRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkII"/>
+                  <l:GebiedRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIII"/>
+                  <l:GebiedRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIV"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+        <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0665.gebied.RoerdalslenkI</l:identificatie>
+               <l:noemer>boringsvrije zone Roerdalslenk I (Bovenste Brunssumklei)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="3B74115A-3E50-4013-85AD-E6AB93E6D05E"/>
+               </l:geometrie>
+            </l:Gebied>
+        </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0665.gebied.RoerdalslenkII</l:identificatie>
+               <l:noemer>boringsvrije zone Roerdalslenk II (Bovenste Brunssumklei)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="45256398-E5BD-4618-AD44-59ECB6C5D0D8"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0665.gebied.RoerdalslenkIII</l:identificatie>
+               <l:noemer>boringsvrije zone Roerdalslenk III (Bovenste Brunssumklei)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="25DF1127-4FD4-4D44-9ECD-EBBBCA752EFC"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebied>
+               <l:identificatie>nl.imow-ws0665.gebied.RoerdalslenkIV</l:identificatie>
+               <l:noemer>boringsvrije zone Roerdalslenk IV (Bovenste Brunssumklei)</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="47582ADF-989D-4018-A2E5-542CC332196A"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <l:identificatie>WS0665</l:identificatie>
+               <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+               <l:geldigOp>2021-03-05</l:geldigOp>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

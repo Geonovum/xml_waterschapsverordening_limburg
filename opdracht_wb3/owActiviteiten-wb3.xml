@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ow-dc:owBestand xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	xmlns:gml="http://www.opengis.net/gml/3.2" 
+	xmlns:l="http://www.geostandaarden.nl/imow/locatie" 
+	xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing" 
+	xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen" 
+	xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek" 
+	xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand" 
+	xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie" 
+	xmlns:r="http://www.geostandaarden.nl/imow/regels" 
+	xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+	xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3-RC/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+	<sl:standBestand>
+		<sl:dataset>Waterschapsverordening Limburg</sl:dataset>
+		<sl:inhoud>
+			<sl:gebied>Limburg</sl:gebied>
+			<sl:leveringsId></sl:leveringsId>
+			<sl:objectTypen>
+				<sl:objectType>Activiteit</sl:objectType>
+			</sl:objectTypen>
+		</sl:inhoud>
+		<!-- artikel 2.4 -->
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<rol:identificatie>nl.imow-ws0665.activiteit.3</rol:identificatie>
+					<rol:naam>wateronttrekkingsactiviteit oppervlaktewater</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Wateronttrekkingsactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+		<sl:stand>
+			<ow-dc:owObject>
+				<rol:Activiteit>
+					<rol:identificatie>nl.imow-ws0665.activiteit.24</rol:identificatie>
+					<rol:naam>Grondwater onttrekken ten behoeve van een bronbemaling of bodemsanering</rol:naam>
+					<rol:groep>http://standaarden.omgevingswet.overheid.nl/activiteit/id/concept/Beperkingengebiedactiviteit</rol:groep>
+					<rol:bovenliggendeActiviteit>
+						<rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
+					</rol:bovenliggendeActiviteit>
+				</rol:Activiteit>
+			</ow-dc:owObject>
+		</sl:stand>
+	</sl:standBestand>
+</ow-dc:owBestand>
