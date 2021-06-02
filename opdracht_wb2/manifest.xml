@@ -44,4 +44,8 @@
 		<bestandsnaam>WaterschapsverordeningSymbolisatieItems.xml</bestandsnaam>
 		<contentType>application/xml</contentType>
 	</bestand>
+	<bestand>
+		<bestandsnaam>WaterschapsverordeningOmgevingsnorm.xml</bestandsnaam>
+		<contentType>application/xml</contentType>
+	</bestand>
 </manifest>

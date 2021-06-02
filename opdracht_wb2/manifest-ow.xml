@@ -19,5 +19,9 @@
          <naam>WaterschapsverordeningSymbolisatieItems.xml</naam>
          <objecttype>SymbolisatieItem</objecttype>
       </Bestand>
+      <Bestand>
+         <naam>WaterschapsverordeningOmgevingsnorm.xml</naam>
+         <objecttype>Omgevingsnorm</objecttype>
+      </Bestand>
    </Aanlevering>
 </Aanleveringen>
