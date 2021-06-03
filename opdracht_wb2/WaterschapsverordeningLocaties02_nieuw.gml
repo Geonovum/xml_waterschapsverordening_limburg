@@ -15,7 +15,7 @@
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
          <geo:FRBRWork>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml02</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml02/nld@2019-01-04</geo:FRBRExpression>
+         <geo:FRBRExpression>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml02/nld@2021-05-15</geo:FRBRExpression>
          <geo:locaties>
             <geo:Locatie>
                <geo:geometrie>
