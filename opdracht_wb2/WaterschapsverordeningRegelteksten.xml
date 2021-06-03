@@ -23,160 +23,54 @@
             <sl:objectType>RegelVoorIedereen</sl:objectType>
          </sl:objectTypen>
       </sl:inhoud>
+      <!--Er moeten drie dingen gebeuren, namelijk: 
+      artikel 2.3: ws0665_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.3
+      artikel 4.3a: ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3a Done
+      artikel 4.3 lid 6: ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_6 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_1">
-               <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid1</r:identificatie>
+            <r:Regeltekst wId="ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3a">
+               <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3a</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0665.juridischeregel.artikel4punt3lid1</r:identificatie>
+               <r:identificatie>nl.imow-ws0665.juridischeregel.artikel4punt3a</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3lid1"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3a"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIV"/>
                </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.23"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.artikel4punt3lid1</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIV"/>
-                        </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
+               <r:omgevingsnormaanduiding>
+                  <rol:OmgevingsnormRef xlink:href="nl.imow-ws0665.omgevingsnorm.graafdiepte"/>
+               </r:omgevingsnormaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_2">
-               <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid2</r:identificatie>
+            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_6">
+               <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid6</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0665.juridischeregel.artikel4punt3lid2</r:identificatie>
+               <r:identificatie>nl.imow-ws0665.juridischeregel.artikel4punt3lid6</r:identificatie>
                <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
                <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3lid2"/>
+                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3lid6"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIV"/>
+                  <l:LocatieRef xlink:href="WS0665"/>
                </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.23"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.artikel4punt3lid2</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkI"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>   
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_3">
-               <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid3</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0665.juridischeregel.artikel4punt3lid3</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3lid3"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.Roerdalslenk"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.23"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.artikel4punt3lid3</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkII"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>   
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_4">
-               <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid4</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0665.juridischeregel.artikel4punt3lid4</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3lid4"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebiedengroep.Roerdalslenk"/>
-               </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.23"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.artikel4punt3lid4</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIII"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>   
-      </sl:stand>
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.2__art_4.7__para_1">
-               <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt7lid1</r:identificatie>
-            </r:Regeltekst>
-         </ow-dc:owObject>
-      </sl:stand><!--nl.imow-ws0665.activiteit.24-->
-      <sl:stand>
-         <ow-dc:owObject>
-            <r:RegelVoorIedereen>
-               <r:identificatie>nl.imow-ws0665.juridischeregel.artikel4punt7lid1</r:identificatie>
-               <r:idealisatie>http://standaarden.omgevingswet.overheid.nl/idealisatie/id/concept/Exact</r:idealisatie>
-               <r:artikelOfLid>
-                  <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt7lid1"/>
-               </r:artikelOfLid>
-               <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="BI.BestuurlijkeGrenzen" xlink:href="WS0665"/>
-                  </r:locatieaanduiding>
-               <r:activiteitaanduiding>
-                  <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.24"/>
-                  <r:ActiviteitLocatieaanduiding>
-                     <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.artikel4punt7lid1</r:identificatie>
-                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
-                     <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="BI.BestuurlijkeGrenzen" xlink:href="WS0665"/>
-                     </r:locatieaanduiding>
-                  </r:ActiviteitLocatieaanduiding>
-               </r:activiteitaanduiding>
-            </r:RegelVoorIedereen>
-         </ow-dc:owObject>
       </sl:stand>
      </sl:standBestand>
 </ow-dc:owBestand>

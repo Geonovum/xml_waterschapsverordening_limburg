@@ -6,8 +6,8 @@
                     xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
    <BesluitVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
-         <FRBRWork>/akn/nl/bill/ws0665/2021/wvl</FRBRWork>
-         <FRBRExpression>/akn/nl/bill/ws0665/2021/wvl/nld@2021-05-15</FRBRExpression>
+         <FRBRWork>/akn/nl/bill/ws0665/2021/wvl_2</FRBRWork>
+         <FRBRExpression>/akn/nl/bill/ws0665/2021/wvl_2/nld@2021-05-15</FRBRExpression>
          <soortWork>/join/id/stop/work_003</soortWork>
       </ExpressionIdentificatie>
       <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
@@ -199,7 +199,7 @@
                         wId="ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_6">
                         <LidNummer>6.</LidNummer>
                         <Inhoud>
-                           <Al>Toni je wilde een nieuw lid, wist even niet wat ik er in moest zetten.</Al>
+                           <Al>Toegevoegd Lid test.</Al>
                         </Inhoud>
                      </Lid>
                   </Artikel>
