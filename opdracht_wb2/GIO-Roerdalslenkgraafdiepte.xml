@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.0.4"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.0.4/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.1.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk_graafdiepte</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>Roerdalslenkgraafdiepte.gml</bestandsnaam>
-                  <hash>492b37884e9e1d250cc99ad263d2e7b3dbcb391d0378aef2419cd459ecbe3ff5ef32165be1463e6565eedeaf2bbdae66b415afd08ce53498fdce5df68b49605d</hash>
+                  <hash>4de674388cbd4fbca6b10f339679f33ae30ceb7e45243a150acfddf987060f703a88d6e3f6b383e4f91a23fb2002f64ec0262ef2853f47a1c4cd2a882392cf51</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>

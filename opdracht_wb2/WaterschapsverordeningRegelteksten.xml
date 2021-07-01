@@ -12,7 +12,7 @@
                  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Waterschapsverordening Limburg, Proef 1</sl:dataset>
       <sl:inhoud>
@@ -29,7 +29,7 @@
       artikel 4.3 lid 6: ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_6 -->
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3a">
+            <r:Regeltekst wId="ws0665_3__cmp_I__art_4.3a">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3a</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -53,7 +53,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_6">
+            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_6">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid6</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -70,7 +70,7 @@
                   <l:LocatieRef xlink:href="WS0665"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
-         </ow-dc:owObject>   
+         </ow-dc:owObject>
       </sl:stand>
-     </sl:standBestand>
+   </sl:standBestand>
 </ow-dc:owBestand>
