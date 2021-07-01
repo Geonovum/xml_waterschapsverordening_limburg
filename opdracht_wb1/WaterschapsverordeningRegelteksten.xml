@@ -12,7 +12,7 @@
                  xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
                  xmlns:xlink="http://www.w3.org/1999/xlink"
                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v1.0.3/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
    <sl:standBestand>
       <sl:dataset>Waterschapsverordening Limburg, Proef 1</sl:dataset>
       <sl:inhoud>
@@ -25,7 +25,7 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_1">
+            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -48,7 +48,7 @@
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
                         <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.RoerdalslenkIV"/>
-                        </r:locatieaanduiding>
+                     </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
@@ -56,7 +56,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_2">
+            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_2">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -83,11 +83,11 @@
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
-         </ow-dc:owObject>   
+         </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_3">
+            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_3">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -114,11 +114,11 @@
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
-         </ow-dc:owObject>   
+         </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_4">
+            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_4">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid4</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -145,7 +145,7 @@
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
-         </ow-dc:owObject>   
+         </ow-dc:owObject>
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
@@ -153,7 +153,8 @@
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt7lid1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
-      </sl:stand><!--nl.imow-ws0665.activiteit.24-->
+      </sl:stand>
+      <!--nl.imow-ws0665.activiteit.24-->
       <sl:stand>
          <ow-dc:owObject>
             <r:RegelVoorIedereen>
@@ -164,7 +165,7 @@
                </r:artikelOfLid>
                <r:locatieaanduiding>
                   <l:AmbtsgebiedRef domein="BI.BestuurlijkeGrenzen" xlink:href="WS0665"/>
-                  </r:locatieaanduiding>
+               </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.24"/>
                   <r:ActiviteitLocatieaanduiding>
@@ -178,5 +179,5 @@
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
-     </sl:standBestand>
+   </sl:standBestand>
 </ow-dc:owBestand>
