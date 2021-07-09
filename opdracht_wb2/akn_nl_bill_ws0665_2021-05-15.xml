@@ -52,8 +52,15 @@
                <doelen>
                   <doel>/join/id/proces/ws0665/2021/wijzigingsbesluit2</doel>
                </doelen>
-               <instrumentVersie>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05</instrumentVersie>
-               <eId>!wijz_bes#cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1</eId> 
+               <instrumentVersie>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk_graafdiepte/nld@2021-03-05</instrumentVersie>
+               <eId>!wijz_bes#cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1</eId> 
+            </BeoogdInformatieobject>
+            <BeoogdInformatieobject>
+               <doelen>
+                  <doel>/join/id/proces/ws0665/2021/wijzigingsbesluit2</doel>
+               </doelen>
+               <instrumentVersie>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml02/nld@2021-05-15</instrumentVersie>
+               <eId>!wijz_bes#cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1_inst2</eId> 
             </BeoogdInformatieobject>
          </BeoogdeRegelgeving>
          <Tijdstempels>
@@ -104,23 +111,23 @@
                <Vervang wat="ws0665_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.3">
                   <Nummer>wb2_1</Nummer>
                   <Wat>Artikel 2.1 krijgt een nieuwe GIO</Wat>
-                  <Artikel eId="cmp_I__art_2.3" wId="2__cmp_I__art_2.3">
+                  <Artikel eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3" wId="ws0665_2__chp_2__subchp_2.1__subsec_2.1.1__art_2.3">
                      <Kop>
                         <Label>Artikel</Label>
                         <Nummer>2.3</Nummer>
                         <Opschrift>Aanwijzing algemene regels</Opschrift>
                      </Kop>
-                     <Lid eId="cmp_I__art_2.3__para_1" wId="2__cmp_I__art_2.3__para_1">
+                     <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1" wId="ws0665_2__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1">
                         <LidNummer>1.</LidNummer>
                         <Inhoud>
                            <Al>Bij het lozen van maximaal 100 m3 water per uur in een , wordt voldaan aan artikel 2.1.1.4. <VerwijderdeTekst>
-                                 <IntIoRef eId="cmp_I__art_2.3__para_1__ref_o_1"
-                                           wId="2__cmp_I__art_2.3__para_1__ref_o_1"
+                              <IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1"
+                                          wId="ws0665_2__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1"
                                            ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">primair water</IntIoRef>
                               </VerwijderdeTekst>
                               <NieuweTekst>
-                                 <IntIoRef eId="cmp_I__art_2.3__para_1__ref_o_1_inst2"
-                                           wId="2__cmp_I__art_2.3__para_1__ref_o_1_inst2"
+                                 <IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1_inst2"
+                                    wId="ws0665_2__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1_inst2"
                                            ref="ws0665_3__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">primair water</IntIoRef>
                               </NieuweTekst>
                            </Al>
@@ -253,8 +260,7 @@
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_4"
-                                   wijzigactie="voegtoe">
+                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_4">
                               <Term>Boringsvrije zone Roerdalslenk (bovenste brunssumklei)</Term>
                               <Definitie>
                                  <Al>
