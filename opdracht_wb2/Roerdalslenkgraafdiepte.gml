@@ -14,8 +14,8 @@
    </geo:context>
    <geo:vastgesteldeVersie>
       <geo:GeoInformatieObjectVersie>
-         <geo:FRBRWork>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk</geo:FRBRWork>
-         <geo:FRBRExpression>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05</geo:FRBRExpression>
+         <geo:FRBRWork>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk_graafdiepte</geo:FRBRWork>
+         <geo:FRBRExpression>/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk_graafdiepte/nld@2021-03-05</geo:FRBRExpression>
          <geo:eenheidlabel>meters diep</geo:eenheidlabel>
          <geo:eenheidID>http://standaarden.omgevingswet.overheid.nl/eenheid/id/concept/Meter</geo:eenheidID>
          <geo:normlabel>Maximale graafdiepte</geo:normlabel>
