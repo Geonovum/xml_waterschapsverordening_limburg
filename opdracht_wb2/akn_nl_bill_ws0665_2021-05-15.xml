@@ -108,7 +108,46 @@
             <RegelingMutatie componentnaam="wijz_bes"
                              was="/akn/nl/act/ws0665/2019/wvl/nld@2021-03-05;2"
                              wordt="/akn/nl/act/ws0665/2019/wvl/nld@2021-05-15;3">
-                  <VoegToe positie="volgtOp"
+               <Vervang wat="ws0665_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.3" revisie="1">
+                  <Nummer>wb2_1</Nummer>
+                  <Wat>Lid 1 van Artikel 2.3 krijgt een nieuwe GIO</Wat>
+                  <Artikel eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3" wId="ws0665_2__chp_2__subchp_2.1__subsec_2.1.1__art_2.3">
+                     <Kop>
+                        <Label>Artikel</Label>
+                        <Nummer>2.3</Nummer>
+                        <Opschrift>Aanwijzing algemene regels</Opschrift>
+                     </Kop>
+                     <Lid eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1" wId="ws0665_2__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1">
+                        <LidNummer>1.</LidNummer>
+                        <Inhoud>
+                           <Al>Bij het lozen van maximaal 100 m3 water per uur in een , wordt voldaan aan artikel 2.1.1.4. <VerwijderdeTekst>
+                              <IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1"
+                                 wId="ws0665_2__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1"
+                                 ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">primair water</IntIoRef>
+                           </VerwijderdeTekst>
+                              <NieuweTekst>
+                                 <IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1_inst2"
+                                    wId="ws0665_2__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1_inst2"
+                                    ref="ws0665_3__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">primair water</IntIoRef>
+                              </NieuweTekst>
+                           </Al>
+                        </Inhoud>
+                     </Lid>
+                     <Lid eId="cmp_I__art_2.3__para_2" wId="2__cmp_I__art_2.3__para_2">
+                        <LidNummer>2.</LidNummer>
+                        <Inhoud>
+                           <Al>Ook bij het of lozen van maximaal 20 m3 water per uur in of , wordt voldaan aan artikel 2.1.1.4. <IntIoRef eId="cmp_I__art_2.3__para_2__ref_o_1"
+                              wId="2__cmp_I__art_2.3__para_2__ref_o_1"
+                              ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1">secundair water</IntIoRef>
+                              <IntIoRef eId="cmp_I__art_2.3__para_2__ref_o_2"
+                                 wId="2__cmp_I__art_2.3__para_2__ref_o_2"
+                                 ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1">overig water</IntIoRef>
+                           </Al>
+                        </Inhoud>
+                     </Lid>
+                  </Artikel>
+               </Vervang>
+               <VoegToe positie="volgtOp"
                         context="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3">
                   <Nummer>wb2_2</Nummer>
                   <Wat>Artikel 4.3a wordt toegevoegd met een norm.</Wat>

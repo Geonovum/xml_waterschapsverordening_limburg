@@ -152,216 +152,216 @@
                <Vervang wat="ws0665_1__cmp_I__content_o_1">
                   <Nummer>wb1_2</Nummer>
                   <Wat>GIO-toevoeging in begrippenlijst (Roerdalslenk)</Wat> 
-                  <Divisietekst eId="cmp_I__content_o_1" wId="2__cmp_I__content_o_1">
+                  <Divisietekst eId="cmp_I__content_o_1" wId="ws0665_1__cmp_I__content_o_1">
                      <Inhoud>
                         <Begrippenlijst eId="cmp_I__content_o_1__list_o_1"
-                                        wId="2__cmp_I__content_o_1__list_o_1">
+                                        wId="ws0665_1__cmp_I__content_o_1__list_o_1">
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_1"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_1">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_1">
                               <Term>alle watergangen minus de kanotrajecten</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml23/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml23/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_2"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_2">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_2">
                               <Term>beheergebied</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_2__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml29/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml29/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_3"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_3">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_3">
                               <Term>beschermingszone keringen</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_3__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml14/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml14/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_4"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_4"
+                                   wId="ws0665_2__cmp_I__content_o_1__list_o_1__item_o_4"
                                    wijzigactie="voegtoe">
                               <Term>Boringsvrije zone Roerdalslenk (bovenste brunssumklei)</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
+                                              wId="ws0665_2__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05">/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_5"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_5">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_4">
                               <Term>buitenbeschermingszone keringen</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_4__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml12/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml12/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_6"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_6">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_5">
                               <Term>inundatiegebied</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_5__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml08/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml08/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_7"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_7">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_6">
                               <Term>kanovaart overig</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_6__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml22/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml22/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_8"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_8">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_7">
                               <Term>kanovaart roer</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_7__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml21/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml21/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_9"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_9">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_8">
                               <Term>kernzone primair water + een buffer van 2 meter eromheen</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_8__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml25/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml25/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_10"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_10">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_9">
                               <Term>kernzone van het oppervlaktewater + een buffer van 0,5 m eromheen</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_9__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml27/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml27/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_11"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_11">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_10">
                               <Term>kernzonesysteem</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_10__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml19/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml19/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_12"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_12">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_11">
                               <Term>meanderzone</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_11__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml07/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml07/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_13"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_13">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_12">
                               <Term>oppervlaktewater</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_12__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml42/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml42/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_14"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_14">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_13">
                               <Term>oppervlaktewateren Afwateringskanaal, Neerbeek, Haelensebeek, Tungelroysebeek, Leukerbeek en Uffeltsebeek</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_13__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml05/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml05/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_15"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_15">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_14">
                               <Term>oppervlaktewateren Niers, Helenavaart en Oude Helenavaart</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_14__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml04/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml04/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_16"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_16">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_15">
                               <Term>primair water</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_15__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml02/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml02/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_17"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_17">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_16">
                               <Term>profiel vrijeruimte keringen</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml11/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml11/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_18"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_18">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_17">
                               <Term>secundair water</Term>
                               <Definitie>
                                  <Al>
-                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
+                                    <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_17__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml03/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml03/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
                            </Begrip>
                            <Begrip eId="cmp_I__content_o_1__list_o_1__item_o_19"
-                                   wId="2__cmp_I__content_o_1__list_o_1__item_o_19">
+                                   wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_18">
                               <Term>werkingsgebied</Term>
                               <Definitie>
                                  <Al>
                                     <ExtIoRef eId="cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1"
-                                              wId="2__cmp_I__content_o_1__list_o_1__item_o_19__ref_o_1"
+                                              wId="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_18__ref_o_1"
                                               ref="/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml41/nld@2019-01-04">/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml41/nld@2019-01-04</ExtIoRef>
                                  </Al>
                               </Definitie>
