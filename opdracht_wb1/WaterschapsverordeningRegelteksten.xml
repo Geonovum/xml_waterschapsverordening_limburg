@@ -164,7 +164,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt7lid1"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:AmbtsgebiedRef domein="BI.BestuurlijkeGrenzen" xlink:href="WS0665"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0655.ambtsgebied.waterschapLimburg"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.24"/>
@@ -172,7 +172,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.artikel4punt7lid1</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/Vergunningplicht</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:AmbtsgebiedRef domein="BI.BestuurlijkeGrenzen" xlink:href="WS0665"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0655.ambtsgebied.waterschapLimburg"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>
