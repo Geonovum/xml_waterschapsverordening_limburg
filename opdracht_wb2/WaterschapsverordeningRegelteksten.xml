@@ -67,7 +67,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3lid6"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="WS0665"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0655.ambtsgebied.waterschapLimburg"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
