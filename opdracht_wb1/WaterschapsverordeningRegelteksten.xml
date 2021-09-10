@@ -25,7 +25,7 @@
       </sl:inhoud>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_1">
+            <r:Regeltekst wId="ws0665_2__cmp_I__art_4.3__para_1">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid1</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -56,7 +56,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_2">
+            <r:Regeltekst wId="ws0665_2__cmp_I__art_4.3__para_2">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid2</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -87,7 +87,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_3">
+            <r:Regeltekst wId="ws0665_2__cmp_I__art_4.3__para_3">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid3</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -118,7 +118,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_1__cmp_I__art_4.3__para_4">
+            <r:Regeltekst wId="ws0665_2__cmp_I__art_4.3__para_4">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid4</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
