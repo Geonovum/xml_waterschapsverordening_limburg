@@ -109,7 +109,7 @@
                         <Nummer>4.3</Nummer>
                         <Opschrift>Vergunningplicht</Opschrift>
                      </Kop>
-                     <Lid eId="cmp_I__art_4.3__para_1" wId="ws0665_2__cmp_I__art_4.3__para_1">
+                     <Lid eId="cmp_I__art_4.3__para_1" wId="ws0665_1__cmp_I__art_4.3__para_1">
                         <LidNummer>1.</LidNummer>
                         <Inhoud>
                            <Al>
@@ -120,28 +120,28 @@
                                       ref="/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05!groepid=RoerdalslenkIV">boringsvrije zone Roerdalslenk IV (Bovenste Brunssumklei)</ExtRef>.</Al> 
                         </Inhoud>
                      </Lid>
-                     <Lid eId="cmp_I__art_4.3__para_2" wId="ws0665_2__cmp_I__art_4.3__para_2">
+                     <Lid eId="cmp_I__art_4.3__para_2" wId="ws0665_1__cmp_I__art_4.3__para_2">
                         <LidNummer>2.</LidNummer>
                         <Inhoud>
                            <Al>Het is verboden zonder vergunning grondwater tot maximaal 10m³ per uur te onttrekken dieper dan 20 meter beneden maaiveld binnen het gebied van <ExtRef soort="JOIN"
                                       ref="/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05!groepid=RoerdalslenkI">boringsvrije zone Roerdalslenk I (Bovenste Brunssumklei)</ExtRef>.</Al>
                         </Inhoud>
                      </Lid>
-                     <Lid eId="cmp_I__art_4.3__para_3" wId="ws0665_2__cmp_I__art_4.3__para_3">
+                     <Lid eId="cmp_I__art_4.3__para_3" wId="ws0665_1__cmp_I__art_4.3__para_3">
                         <LidNummer>3.</LidNummer>
                         <Inhoud>
                            <Al>Het is verboden zonder vergunning grondwater tot maximaal 10m³ per uur te onttrekken dieper dan 30 meter beneden maaiveld binnen het gebied van <ExtRef soort="JOIN"
                                       ref="/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05!groepid=RoerdalslenkII">boringsvrije zone Roerdalslenk II (Bovenste Brunssumklei)</ExtRef>.</Al>
                         </Inhoud>
                      </Lid>
-                     <Lid eId="cmp_I__art_4.3__para_4" wId="ws0665_2__cmp_I__art_4.3__para_4">
+                     <Lid eId="cmp_I__art_4.3__para_4" wId="ws0665_1__cmp_I__art_4.3__para_4">
                         <LidNummer>4.</LidNummer>
                         <Inhoud>
                            <Al>Het is verboden zonder vergunning grondwater tot maximaal 10m³ per uur te onttrekken dieper dan 80 meter beneden maaiveld binnen het gebied van <ExtRef soort="JOIN"
                                       ref="/join/id/regdata/ws0665/2021/nl_imow-ws0665_gebied_roerdalslenk/nld@2021-03-05!groepid=RoerdalslenkIII">boringsvrije zone Roerdalslenk III (Bovenste Brunssumklei)</ExtRef>.</Al>
                         </Inhoud>
                      </Lid>
-                     <Lid eId="cmp_I__art_4.3__para_5" wId="ws0665_2__cmp_I__art_4.3__para_5">
+                     <Lid eId="cmp_I__art_4.3__para_5" wId="ws0665_1__cmp_I__art_4.3__para_5">
                         <LidNummer>5.</LidNummer>
                         <Inhoud>
                            <Al>Het is verboden zonder vergunning grondwater tot maximaal 10m³ per uur te onttrekken binnen het gebied van Venloschol, wanneer het grondwater dieper dan 5 meter beneden NAP.</Al>
