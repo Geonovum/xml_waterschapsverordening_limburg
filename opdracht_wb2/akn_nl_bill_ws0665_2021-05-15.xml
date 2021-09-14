@@ -116,10 +116,10 @@
                         <LidNummer>1.</LidNummer>
                         <Inhoud>
                            <Al>Bij het lozen van maximaal 100 m3 water per uur in een , wordt voldaan aan artikel 2.1.1.4. <VerwijderdeTekst>
-                                 <IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1" wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1" ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">primair water</IntIoRef>
+                              <IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1__inst_2" wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1__inst_2" ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_1__ref_o_1">primair water</IntIoRef>
                               </VerwijderdeTekst>
                               <NieuweTekst>
-                                 <IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1_inst2" wId="ws0665_1__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1_inst2" ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1">primair water</IntIoRef>
+                                 <IntIoRef eId="chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1" wId="ws0665_3__chp_2__subchp_2.1__subsec_2.1.1__art_2.3__para_1__ref_o_1" ref="ws0665_1__cmp_I__content_o_1__list_o_1__item_o_16__ref_o_1">primair water</IntIoRef>
                               </NieuweTekst>
                            </Al>
                         </Inhoud>
