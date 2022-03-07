@@ -3,8 +3,8 @@
 <AanleveringInformatieObject xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
                              xmlns:geo="https://standaarden.overheid.nl/stop/imop/geo/"
                              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-                             schemaversie="1.1.0"
-                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.1.0/lvbb-stop-aanlevering.xsd">
+                             schemaversie="1.2.0"
+                             xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
    <InformatieObjectVersie>
       <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
          <FRBRWork>/join/id/regdata/ws0665/2019/nl_imow-ws0665_gebied_gml29</FRBRWork>
@@ -17,7 +17,7 @@
             <heeftBestand>
                <Bestand>
                   <bestandsnaam>WaterschapsverordeningLocaties29.gml</bestandsnaam>
-                  <hash>319ca912577299fb0adea1344717c2a0c46e529b9c738b551dfb672ad0960c6dd0c61bf5c7f986321fce29d30609e9dcf43f1760df545a4e85d3f82fe9f108d2</hash>
+                  <hash>8531834a3dbd40a1e840df40e12039073b79ff685b933e5373aedf4b1134247cf2d9a7160c01c01415005e2c7df1f319260cca9b7a18ad64a73bb1e908e28645</hash>
                </Bestand>
             </heeftBestand>
          </heeftBestanden>
