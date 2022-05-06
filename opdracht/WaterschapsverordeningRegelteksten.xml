@@ -40,7 +40,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.topactiviteit"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml41"/>
                </r:locatieaanduiding>
                <r:activiteitaanduiding>
                   <rol:ActiviteitRef xlink:href="nl.imow-ws0665.activiteit.ActInWaterschapsvLimburg"/>
@@ -48,7 +48,7 @@
                      <r:identificatie>nl.imow-ws0665.activiteitlocatieaanduiding.art1000001</r:identificatie>
                      <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
                      <r:locatieaanduiding>
-                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
+                        <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml41"/>
                      </r:locatieaanduiding>
                   </r:ActiviteitLocatieaanduiding>
                </r:activiteitaanduiding>

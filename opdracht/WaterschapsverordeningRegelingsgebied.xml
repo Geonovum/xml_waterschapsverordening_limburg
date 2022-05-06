@@ -21,7 +21,7 @@
             <rg:Regelingsgebied>
                <rg:identificatie>nl.imow-ws0665.regelingsgebied.0</rg:identificatie>
                <rg:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.regelingsgebied"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml41"/>
                </rg:locatieaanduiding>
             </rg:Regelingsgebied>
          </ow-dc:owObject>

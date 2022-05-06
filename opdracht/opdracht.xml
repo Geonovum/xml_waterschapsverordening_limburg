@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <publicatieOpdracht xmlns="http://www.overheid.nl/2017/lvbb">
-   <idLevering>act_ws0665_2020-02-04V2Wim3</idLevering>
+   <idLevering>RdG_WaterschapsverordeningLimburg_003</idLevering>
    <idBevoegdGezag>00000001003214345000</idBevoegdGezag>
    <idAanleveraar>00000003560458830000</idAanleveraar> <!--deze mag ook 00000001003214345000-->
    <publicatie>akn_nl_bill_ws0665_2019-01-04.xml</publicatie>
-   <datumBekendmaking>2021-08-26</datumBekendmaking>
+   <datumBekendmaking>2022-05-07</datumBekendmaking>
 </publicatieOpdracht>
