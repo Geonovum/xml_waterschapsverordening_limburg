@@ -28,8 +28,8 @@
       artikel 4.3a: ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3a Done
       artikel 4.3 lid 6: ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_6 -->
       <sl:stand>
-         <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3a">
+         <ow-dc:owObject>      
+            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3a">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3a</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -53,7 +53,7 @@
       </sl:stand>
       <sl:stand>
          <ow-dc:owObject>
-            <r:Regeltekst wId="ws0665_3__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_6">
+            <r:Regeltekst wId="ws0665_1__chp_4__subchp_4.1__subsec_4.1.1__art_4.3__para_6">
                <r:identificatie>nl.imow-ws0665.regeltekst.artikel4punt3lid6</r:identificatie>
             </r:Regeltekst>
          </ow-dc:owObject>
@@ -67,7 +67,7 @@
                   <r:RegeltekstRef xlink:href="nl.imow-ws0665.regeltekst.artikel4punt3lid6"/>
                </r:artikelOfLid>
                <r:locatieaanduiding>
-                  <l:LocatieRef xlink:href="nl.imow-ws0655.ambtsgebied.waterschapLimburg"/>
+                  <l:LocatieRef xlink:href="nl.imow-ws0665.gebied.gml41"/>
                </r:locatieaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
